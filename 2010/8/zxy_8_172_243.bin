@@ -1,0 +1,642 @@
+qqqqqÿqqqqqqqqqqqÿqÿqqqqqqqqqqqqqÿqÿqÿqÿq q!q!q"q"q#q#q#ÿq$q%q%q%ÿq&ÿq'ÿq(q)q)q)ÿq*q+q+ÿq,ÿq-ÿq.ÿq/ÿq0$ÿq1ÿq2ÿq3ÿq4ÿq5qqqqqÿqqqqqqqqqqqÿqÿqqqqqqqqqqqqqÿqÿqÿqÿq q!q!q"q"q#q#q#ÿq$q%q%q%ÿq&ÿq'ÿq(q)q)q)ÿq*q+q+ÿq,ÿq-ÿq.ÿq/ÿq0$ÿq1ÿq2ÿq3ÿq4ÿq5qqqqqÿqqqqqqqqqqqÿqÿqqqqqqqqqqqqqÿqÿqÿqÿq q!q!q"q"q#q#q#ÿq$q%q%q%ÿq&ÿq'ÿq(q)q)q)ÿq*q+q+ÿq,ÿq-ÿq.ÿq/ÿq0$ÿq1ÿq2ÿq3ÿq4ÿq5qqqqqÿqqqqqqqqqqqÿqÿqqqqqqqqqqqqqÿqÿqÿqÿq q!q!q"q"q#q#q#ÿq$q%q%q%ÿq&ÿq'ÿq(q)q)q)ÿq*q+q+ÿq,ÿq-ÿq.ÿq/ÿq0$ÿq1ÿq2ÿq3ÿq4ÿq5qqqqqÿqqqqqqqqqqqÿqÿqqqqqqqqqqqqqÿqÿqÿqÿq q!q!q"q"q#q#q#ÿq$q%q%q%ÿq&ÿq'ÿq(q)q)q)ÿq*q+q+ÿq,ÿq-ÿq.ÿq/ÿq0$ÿq1ÿq2ÿq3ÿq4ÿq5qqqqqÿqqqqqqqqqqqÿqÿqqqqqqqqqqqqqÿqÿqÿqÿq q!q!q"q"q#q#q#ÿq$q%q%q%ÿq&ÿq'ÿq(q)q)q)ÿq*q+q+ÿq,ÿq-ÿq.ÿq/ÿq0$ÿq1ÿq2ÿq3ÿq4ÿq5qqqqqÿqqqqqqqqqqqÿqÿqqqqqqqqqqqqqÿqÿqÿqÿq q!q!q"q"q#q#q#ÿq$q%q%q%ÿq&ÿq'ÿq(q)q)q)ÿq*q+q+ÿq,ÿq-ÿq.ÿq/ÿq0$ÿq1ÿq2ÿq3ÿq4ÿq5qqqqqÿq	q
+qqqqqqqqqÿqqqqÿqqqqqqÿqÿqÿqqqÿqÿqqqqqqqqqqqqqqqÿq q!q"q"q"q#ÿq$q%q%q%q&q&ÿq'ÿq(ÿq)ÿq*ÿq+ÿq,ÿq-ÿq.ÿq/ÿq0ÿq1ÿq2ÿq3ÿq4ÿq5qqqqqÿq	q
+qqqqqqqqqÿqqqqÿqqqqqqÿqÿqÿqqqÿqÿqqqqqqqqqqqqqqqÿq q!q"q"q"q#ÿq$q%q%q%q&q&ÿq'ÿq(ÿq)ÿq*ÿq+ÿq,ÿq-ÿq.ÿq/ÿq0ÿq1ÿq2ÿq3ÿq4ÿq5qqqqqÿq	q
+qqqqqqqqqÿqqqqÿqqqqqqÿqÿqÿqqqÿqÿqqqqqqqqqqqqqqqÿq q!q"q"q"q#ÿq$q%q%q%q&q&ÿq'ÿq(ÿq)ÿq*ÿq+ÿq,ÿq-ÿq.ÿq/ÿq0ÿq1ÿq2ÿq3ÿq4ÿq5qqqqqÿq	q
+qqqqqqqqqÿqqqqÿqqqqqqÿqÿqÿqqqÿqÿqqqqqqqqqqqqqqqÿq q!q"q"q"q#ÿq$q%q%q%q&q&ÿq'ÿq(ÿq)ÿq*ÿq+ÿq,ÿq-ÿq.ÿq/ÿq0ÿq1ÿq2ÿq3ÿq4ÿq5qqqqqÿq	q
+qqqqqqqqqÿqqqqÿqqqqqqÿqÿqÿqqqÿqÿqqqqqqqqqqqqqqqÿq q!q"q"q"q#ÿq$q%q%q%q&q&ÿq'ÿq(ÿq)ÿq*ÿq+ÿq,ÿq-ÿq.ÿq/ÿq0ÿq1ÿq2ÿq3ÿq4ÿq5qqqqqÿq	q
+qqqqqqqqqÿqqqqÿqqqqqqÿqÿqÿqqqÿqÿqqqqqqqqqqqqqqqÿq q!q"q"q"q#ÿq$q%q%q%q&q&ÿq'ÿq(ÿq)ÿq*ÿq+ÿq,ÿq-ÿq.ÿq/ÿq0ÿq1ÿq2ÿq3ÿq4ÿq5qqqqqÿq	q
+qqqqqqqqqÿqqqqÿqqqqqqÿqÿqÿqqqÿqÿqqqqqqqqqqqqqqqÿq q!q"q"q"q#ÿq$q%q%q%q&q&ÿq'ÿq(ÿq)ÿq*ÿq+ÿq,ÿq-ÿq.ÿq/ÿq0ÿq1ÿq2ÿq3ÿq4ÿq5qqqqqÿq	q
+qqqqqqqqqÿqqqqÿqqqqqqÿqÿqÿqqqÿqÿqqqqqqqqqqqqqqqÿq q!q"q"q"q#ÿq$q%q%q%q&q&ÿq'ÿq(ÿq)ÿq*ÿq+ÿq,ÿq-ÿq.ÿq/ÿq0ÿq1ÿq2ÿq3ÿq4ÿq5qqqqqÿq	q
+qqqqqqqqqÿqqqqÿqqqqqqÿqÿqÿqqqÿqÿqqqqqqqqqqqqqqqÿq q!q"q"q"q#ÿq$q%q%q%q&q&ÿq'ÿq(ÿq)ÿq*ÿq+ÿq,ÿq-ÿq.ÿq/ÿq0ÿq1ÿq2ÿq3ÿq4ÿq5qqqqqÿq	q
+qqqqqqqqqÿqqqqÿqqqqqqÿqÿqÿqqqÿqÿqqqqqqqqqqqqqqqÿq q!q"q"q"q#ÿq$q%q%q%q&q&ÿq'ÿq(ÿq)ÿq*ÿq+ÿq,ÿq-ÿq.ÿq/ÿq0ÿq1ÿq2ÿq3ÿq4ÿq5qqqqqÿq	q
+qqqqqqqqqÿqqqqÿqqqqqqÿqÿqÿqqqÿqÿqqqqqqqqqqqqqqqÿq q!q"q"q"q#ÿq$q%q%q%q&q&ÿq'ÿq(ÿq)ÿq*ÿq+ÿq,ÿq-ÿq.ÿq/ÿq0ÿq1ÿq2ÿq3ÿq4ÿq5qqqqqÿq	q
+qqqqqqqqqÿqqqqÿqqqqqqÿqÿqÿqqqÿqÿqqqqqqqqqqqqqqqÿq q!q"q"q"q#ÿq$q%q%q%q&q&ÿq'ÿq(ÿq)ÿq*ÿq+ÿq,ÿq-ÿq.ÿq/ÿq0ÿq1ÿq2ÿq3ÿq4ÿq5qqqqqÿq	q
+qqqqqqqqqÿqqqqÿqqqqqqÿqÿqÿqqqÿqÿqqqqqqqqqqqqqqqÿq q!q"q"q"q#ÿq$q%q%q%q&q&ÿq'ÿq(ÿq)ÿq*ÿq+ÿq,ÿq-ÿq.ÿq/ÿq0ÿq1ÿq2ÿq3ÿq4ÿq5qqqqqqqqqqqqqqÿqÿq	ÿq
+ÿqÿqÿqÿqÿq	ÿqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqÿq q!q!q!q"q"q#q#ÿq$q%q%q%q&q&q&ÿq'ÿq(ÿq)ÿq*ÿq+ÿq,ÿq-ÿq.ÿq/ÿq0ÿq1ÿq2ÿq3ÿq4ÿq5
+ÿq6qqqqqqqqqqqqqqÿqÿq	ÿq
+ÿqÿqÿqÿqÿq	ÿqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqÿq q!q!q!q"q"q#q#ÿq$q%q%q%q&q&q&ÿq'ÿq(ÿq)ÿq*ÿq+ÿq,ÿq-ÿq.ÿq/ÿq0ÿq1ÿq2ÿq3ÿq4ÿq5
+ÿq6qqqqqqqqqqqqqqÿqÿq	ÿq
+ÿqÿqÿqÿqÿq	ÿqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqÿq q!q!q!q"q"q#q#ÿq$q%q%q%q&q&q&ÿq'ÿq(ÿq)ÿq*ÿq+ÿq,ÿq-ÿq.ÿq/ÿq0ÿq1ÿq2ÿq3ÿq4ÿq5
+ÿq6qqqqqqqqqqqqqqÿqÿq	ÿq
+ÿqÿqÿqÿqÿq	ÿqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqÿq q!q!q!q"q"q#q#ÿq$q%q%q%q&q&q&ÿq'ÿq(ÿq)ÿq*ÿq+ÿq,ÿq-ÿq.ÿq/ÿq0ÿq1ÿq2ÿq3ÿq4ÿq5
+ÿq6qqqqqqqqqqqqqqÿqÿq	ÿq
+ÿqÿqÿqÿqÿq	ÿqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqÿq q!q!q!q"q"q#q#ÿq$q%q%q%q&q&q&ÿq'ÿq(ÿq)ÿq*ÿq+ÿq,ÿq-ÿq.ÿq/ÿq0ÿq1ÿq2ÿq3ÿq4ÿq5
+ÿq6qqqqqqqqqqqqqqÿqÿq	ÿq
+ÿqÿqÿqÿqÿq	ÿqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqÿq q!q!q!q"q"q#q#ÿq$q%q%q%q&q&q&ÿq'ÿq(ÿq)ÿq*ÿq+ÿq,ÿq-ÿq.ÿq/ÿq0ÿq1ÿq2ÿq3ÿq4ÿq5
+ÿq6qqqqqqqqqqqqqqÿqÿq	ÿq
+ÿqÿqÿqÿqÿq	ÿqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqÿq q!q!q!q"q"q#q#ÿq$q%q%q%q&q&q&ÿq'ÿq(ÿq)ÿq*ÿq+ÿq,ÿq-ÿq.ÿq/ÿq0ÿq1ÿq2ÿq3ÿq4ÿq5
+ÿq6qqqqqqqqqqqqqqÿqÿq	ÿq
+ÿqÿqÿqÿqÿq	ÿqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqÿq q!q!q!q"q"q#q#ÿq$q%q%q%q&q&q&ÿq'ÿq(ÿq)ÿq*ÿq+ÿq,ÿq-ÿq.ÿq/ÿq0ÿq1ÿq2ÿq3ÿq4ÿq5
+ÿq6qqqqqqqqqqqqqqÿqÿq	ÿq
+ÿqÿqÿqÿqÿq	ÿqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqÿq q!q!q!q"q"q#q#ÿq$q%q%q%q&q&q&ÿq'ÿq(ÿq)ÿq*ÿq+ÿq,ÿq-ÿq.ÿq/ÿq0ÿq1ÿq2ÿq3ÿq4ÿq5
+ÿq6qqqqqqqqqqqqqqÿqÿq	ÿq
+ÿqÿqÿqÿqÿq	ÿqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqÿq q!q!q!q"q"q#q#ÿq$q%q%q%q&q&q&ÿq'ÿq(ÿq)ÿq*ÿq+ÿq,ÿq-ÿq.ÿq/ÿq0ÿq1ÿq2ÿq3ÿq4ÿq5
+ÿq6qqqqqqqqqqqqqqÿqÿq	ÿq
+ÿqÿqÿqÿqÿq	ÿqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqÿq q!q!q!q"q"q#q#ÿq$q%q%q%q&q&q&ÿq'ÿq(ÿq)ÿq*ÿq+ÿq,ÿq-ÿq.ÿq/ÿq0ÿq1ÿq2ÿq3ÿq4ÿq5
+ÿq6qqqqqqqqqqqqqqÿqÿq	ÿq
+ÿqÿqÿqÿqÿq	ÿqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqÿq q!q!q!q"q"q#q#ÿq$q%q%q%q&q&q&ÿq'ÿq(ÿq)ÿq*ÿq+ÿq,ÿq-ÿq.ÿq/ÿq0ÿq1ÿq2ÿq3ÿq4ÿq5
+ÿq6qqqqqqqqqqqqqqÿqÿq	ÿq
+ÿqÿqÿqÿqÿq	ÿqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqÿq q!q!q!q"q"q#q#ÿq$q%q%q%q&q&q&ÿq'ÿq(ÿq)ÿq*ÿq+ÿq,ÿq-ÿq.ÿq/ÿq0ÿq1ÿq2ÿq3ÿq4ÿq5
+ÿq6qqqqqÿqÿq
+ÿqÿqÿqÿqÿq	q
+q
+q
+ÿqÿqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqÿq q!q!q"q"q"ÿq#q$q$q$ÿq%ÿq&ÿq'ÿq(ÿq)ÿq*ÿq+ÿq,	ÿq-
+ÿq.ÿq/
+ÿq0ÿq1ÿq2ÿq3ÿq4ÿq5ÿq6q7q7qqqqqÿqÿq
+ÿqÿqÿqÿqÿq	q
+q
+q
+ÿqÿqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqÿq q!q!q"q"q"ÿq#q$q$q$ÿq%ÿq&ÿq'ÿq(ÿq)ÿq*ÿq+ÿq,	ÿq-
+ÿq.ÿq/
+ÿq0ÿq1ÿq2ÿq3ÿq4ÿq5ÿq6q7q7qqqqqÿqÿq
+ÿqÿqÿqÿqÿq	q
+q
+q
+ÿqÿqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqÿq q!q!q"q"q"ÿq#q$q$q$ÿq%ÿq&ÿq'ÿq(ÿq)ÿq*ÿq+ÿq,	ÿq-
+ÿq.ÿq/
+ÿq0ÿq1ÿq2ÿq3ÿq4ÿq5ÿq6q7q7qqqqqÿqÿq
+ÿqÿqÿqÿqÿq	q
+q
+q
+ÿqÿqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqÿq q!q!q"q"q"ÿq#q$q$q$ÿq%ÿq&ÿq'ÿq(ÿq)ÿq*ÿq+ÿq,	ÿq-
+ÿq.ÿq/
+ÿq0ÿq1ÿq2ÿq3ÿq4ÿq5ÿq6q7q7qqqqqÿqÿq
+ÿqÿqÿqÿqÿq	q
+q
+q
+ÿqÿqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqÿq q!q!q"q"q"ÿq#q$q$q$ÿq%ÿq&ÿq'ÿq(ÿq)ÿq*ÿq+ÿq,	ÿq-
+ÿq.ÿq/
+ÿq0ÿq1ÿq2ÿq3ÿq4ÿq5ÿq6q7q7qqqqqÿqÿq
+ÿqÿqÿqÿqÿq	q
+q
+q
+ÿqÿqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqÿq q!q!q"q"q"ÿq#q$q$q$ÿq%ÿq&ÿq'ÿq(ÿq)ÿq*ÿq+ÿq,	ÿq-
+ÿq.ÿq/
+ÿq0ÿq1ÿq2ÿq3ÿq4ÿq5ÿq6q7q7qqqqqÿqÿq
+ÿqÿqÿqÿqÿq	q
+q
+q
+ÿqÿqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqÿq q!q!q"q"q"ÿq#q$q$q$ÿq%ÿq&ÿq'ÿq(ÿq)ÿq*ÿq+ÿq,	ÿq-
+ÿq.ÿq/
+ÿq0ÿq1ÿq2ÿq3ÿq4ÿq5ÿq6q7q7qqqqqÿqÿq
+ÿqÿqÿqÿqÿq	q
+q
+q
+ÿqÿqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqÿq q!q!q"q"q"ÿq#q$q$q$ÿq%ÿq&ÿq'ÿq(ÿq)ÿq*ÿq+ÿq,	ÿq-
+ÿq.ÿq/
+ÿq0ÿq1ÿq2ÿq3ÿq4ÿq5ÿq6q7q7qqqqqÿqÿq
+ÿqÿqÿqÿqÿq	q
+q
+q
+ÿqÿqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqÿq q!q!q"q"q"ÿq#q$q$q$ÿq%ÿq&ÿq'ÿq(ÿq)ÿq*ÿq+ÿq,	ÿq-
+ÿq.ÿq/
+ÿq0ÿq1ÿq2ÿq3ÿq4ÿq5ÿq6q7q7qqqqqÿqÿq
+ÿqÿqÿqÿqÿq	q
+q
+q
+ÿqÿqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqÿq q!q!q"q"q"ÿq#q$q$q$ÿq%ÿq&ÿq'ÿq(ÿq)ÿq*ÿq+ÿq,	ÿq-
+ÿq.ÿq/
+ÿq0ÿq1ÿq2ÿq3ÿq4ÿq5ÿq6q7q7qqqqqÿqÿq
+ÿqÿqÿqÿqÿq	q
+q
+q
+ÿqÿqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqÿq q!q!q"q"q"ÿq#q$q$q$ÿq%ÿq&ÿq'ÿq(ÿq)ÿq*ÿq+ÿq,	ÿq-
+ÿq.ÿq/
+ÿq0ÿq1ÿq2ÿq3ÿq4ÿq5ÿq6q7q7qqqqqÿqÿq
+ÿqÿqÿqÿqÿq	q
+q
+q
+ÿqÿqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqÿq q!q!q"q"q"ÿq#q$q$q$ÿq%ÿq&ÿq'ÿq(ÿq)ÿq*ÿq+ÿq,	ÿq-
+ÿq.ÿq/
+ÿq0ÿq1ÿq2ÿq3ÿq4ÿq5ÿq6q7q7qqqqqÿqÿq
+ÿqÿqÿqÿqÿq	q
+q
+q
+ÿqÿqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqÿq q!q!q"q"q"ÿq#q$q$q$ÿq%ÿq&ÿq'ÿq(ÿq)ÿq*ÿq+ÿq,	ÿq-
+ÿq.ÿq/
+ÿq0ÿq1ÿq2ÿq3ÿq4ÿq5ÿq6q7q7qÿqÿqÿqÿqÿqÿqÿq	ÿq
+qqqqqqqqqqqqqqqqqqqqqqqqqqÿqqqqqqqqqqqÿqqqqqqÿqÿq ÿq!ÿq"ÿq#ÿq$ÿq%ÿq&q'q'q'q(q(q(ÿq)ÿq*ÿq+ÿq,ÿq-ÿq,q-q-q-q.q.q.ÿq/ÿq0q1q1q1ÿq2ÿq3ÿq4ÿq5ÿq6ÿq7q8q8q8qÿqÿqÿqÿqÿqÿqÿq	ÿq
+qqqqqqqqqqqqqqqqqqqqqqqqqqÿqqqqqqqqqqqÿqqqqqqÿqÿq ÿq!ÿq"ÿq#ÿq$ÿq%ÿq&q'q'q'q(q(q(ÿq)ÿq*ÿq+ÿq,ÿq-ÿq,q-q-q-q.q.q.ÿq/ÿq0q1q1q1ÿq2ÿq3ÿq4ÿq5ÿq6ÿq7q8q8q8qÿqÿqÿqÿqÿqÿqÿq	ÿq
+qqqqqqqqqqqqqqqqqqqqqqqqqqÿqqqqqqqqqqqÿqqqqqqÿqÿq ÿq!ÿq"ÿq#ÿq$ÿq%ÿq&q'q'q'q(q(q(ÿq)ÿq*ÿq+ÿq,ÿq-ÿq,q-q-q-q.q.q.ÿq/ÿq0q1q1q1ÿq2ÿq3ÿq4ÿq5ÿq6ÿq7q8q8q8qÿqÿqÿqÿqÿqÿqÿq	ÿq
+qqqqqqqqqqqqqqqqqqqqqqqqqqÿqqqqqqqqqqqÿqqqqqqÿqÿq ÿq!ÿq"ÿq#ÿq$ÿq%ÿq&q'q'q'q(q(q(ÿq)ÿq*ÿq+ÿq,ÿq-ÿq,q-q-q-q.q.q.ÿq/ÿq0q1q1q1ÿq2ÿq3ÿq4ÿq5ÿq6ÿq7q8q8q8qÿqÿqÿqÿqÿqÿqÿq	ÿq
+qqqqqqqqqqqqqqqqqqqqqqqqqqÿqqqqqqqqqqqÿqqqqqqÿqÿq ÿq!ÿq"ÿq#ÿq$ÿq%ÿq&q'q'q'q(q(q(ÿq)ÿq*ÿq+ÿq,ÿq-ÿq,q-q-q-q.q.q.ÿq/ÿq0q1q1q1ÿq2ÿq3ÿq4ÿq5ÿq6ÿq7q8q8q8qÿqÿqÿqÿqÿqÿqÿq	ÿq
+qqqqqqqqqqqqqqqqqqqqqqqqqqÿqqqqqqqqqqqÿqqqqqqÿqÿq ÿq!ÿq"ÿq#ÿq$ÿq%ÿq&q'q'q'q(q(q(ÿq)ÿq*ÿq+ÿq,ÿq-ÿq,q-q-q-q.q.q.ÿq/ÿq0q1q1q1ÿq2ÿq3ÿq4ÿq5ÿq6ÿq7q8q8q8qÿqÿqÿqÿqÿqÿqÿq	ÿq
+qqqqqqqqqqqqqqqqqqqqqqqqqqÿqqqqqqqqqqqÿqqqqqqÿqÿq ÿq!ÿq"ÿq#ÿq$ÿq%ÿq&q'q'q'q(q(q(ÿq)ÿq*ÿq+ÿq,ÿq-ÿq,q-q-q-q.q.q.ÿq/ÿq0q1q1q1ÿq2ÿq3ÿq4ÿq5ÿq6ÿq7q8q8q8qÿqÿqÿqÿqÿqÿqÿq	ÿq
+qqqqqqqqqqqqqqqqqqqqqqqqqqÿqqqqqqqqqqqÿqqqqqqÿqÿq ÿq!ÿq"ÿq#ÿq$ÿq%ÿq&q'q'q'q(q(q(ÿq)ÿq*ÿq+ÿq,ÿq-ÿq,q-q-q-q.q.q.ÿq/ÿq0q1q1q1ÿq2ÿq3ÿq4ÿq5ÿq6ÿq7q8q8q8qÿqÿqÿqÿqÿqÿqÿq	ÿq
+qqqqqqqqqqqqqqqqqqqqqqqqqqÿqqqqqqqqqqqÿqqqqqqÿqÿq ÿq!ÿq"ÿq#ÿq$ÿq%ÿq&q'q'q'q(q(q(ÿq)ÿq*ÿq+ÿq,ÿq-ÿq,q-q-q-q.q.q.ÿq/ÿq0q1q1q1ÿq2ÿq3ÿq4ÿq5ÿq6ÿq7q8q8q8qÿqÿqÿqÿqÿqÿqÿq	ÿq
+qqqqqqqqqqqqqqqqqqqqqqqqqqÿqqqqqqqqqqqÿqqqqqqÿqÿq ÿq!ÿq"ÿq#ÿq$ÿq%ÿq&q'q'q'q(q(q(ÿq)ÿq*ÿq+ÿq,ÿq-ÿq,q-q-q-q.q.q.ÿq/ÿq0q1q1q1ÿq2ÿq3ÿq4ÿq5ÿq6ÿq7q8q8q8qÿqÿqÿqÿqÿqÿqÿq	ÿq
+qqqqqqqqqqqqqqqqqqqqqqqqqqÿqqqqqqqqqqqÿqqqqqqÿqÿq ÿq!ÿq"ÿq#ÿq$ÿq%ÿq&q'q'q'q(q(q(ÿq)ÿq*ÿq+ÿq,ÿq-ÿq,q-q-q-q.q.q.ÿq/ÿq0q1q1q1ÿq2ÿq3ÿq4ÿq5ÿq6ÿq7q8q8q8qÿqÿqÿqÿqÿqÿqÿq	ÿq
+qqqqqqqqqqqqqqqqqqqqqqqqqqÿqqqqqqqqqqqÿqqqqqqÿqÿq ÿq!ÿq"ÿq#ÿq$ÿq%ÿq&q'q'q'q(q(q(ÿq)ÿq*ÿq+ÿq,ÿq-ÿq,q-q-q-q.q.q.ÿq/ÿq0q1q1q1ÿq2ÿq3ÿq4ÿq5ÿq6ÿq7q8q8q8qÿqÿqÿqÿqÿqÿqÿq	ÿq
+qqqqqqqqqqqqqqqqqqqqqqqqqqÿqqqqqqqqqqqÿqqqqqqÿqÿq ÿq!ÿq"ÿq#ÿq$ÿq%ÿq&q'q'q'q(q(q(ÿq)ÿq*ÿq+ÿq,ÿq-ÿq,q-q-q-q.q.q.ÿq/ÿq0q1q1q1ÿq2ÿq3ÿq4ÿq5ÿq6ÿq7q8q8q8ÿqÿqÿqÿqÿqÿqÿqÿq	q
+q
+q
+qqqqqqqqqqqqÿqqqqqqqqqqqqqqqqqqÿqÿqÿqÿqÿqÿqÿqqqqqqÿqÿq ÿq!q"q"q"q#q#q#q$q%q%q%ÿq&q'q'q'q(q(ÿq)q*q*q*q+q+ÿq,ÿq-ÿq.ÿq/ÿq0q1q1q1q2q2q2ÿq3ÿq4ÿq5ÿq6ÿq7ÿq8
+ÿqÿqÿqÿqÿqÿqÿqÿq	q
+q
+q
+qqqqqqqqqqqqÿqqqqqqqqqqqqqqqqqqÿqÿqÿqÿqÿqÿqÿqqqqqqÿqÿq ÿq!q"q"q"q#q#q#q$q%q%q%ÿq&q'q'q'q(q(ÿq)q*q*q*q+q+ÿq,ÿq-ÿq.ÿq/ÿq0q1q1q1q2q2q2ÿq3ÿq4ÿq5ÿq6ÿq7ÿq8
+ÿqÿqÿqÿqÿqÿqÿqÿq	q
+q
+q
+qqqqqqqqqqqqÿqqqqqqqqqqqqqqqqqqÿqÿqÿqÿqÿqÿqÿqqqqqqÿqÿq ÿq!q"q"q"q#q#q#q$q%q%q%ÿq&q'q'q'q(q(ÿq)q*q*q*q+q+ÿq,ÿq-ÿq.ÿq/ÿq0q1q1q1q2q2q2ÿq3ÿq4ÿq5ÿq6ÿq7ÿq8
+ÿqÿqÿqÿqÿqÿqÿqÿq	q
+q
+q
+qqqqqqqqqqqqÿqqqqqqqqqqqqqqqqqqÿqÿqÿqÿqÿqÿqÿqqqqqqÿqÿq ÿq!q"q"q"q#q#q#q$q%q%q%ÿq&q'q'q'q(q(ÿq)q*q*q*q+q+ÿq,ÿq-ÿq.ÿq/ÿq0q1q1q1q2q2q2ÿq3ÿq4ÿq5ÿq6ÿq7ÿq8
+ÿqÿqÿqÿqÿqÿqÿqÿq	q
+q
+q
+qqqqqqqqqqqqÿqqqqqqqqqqqqqqqqqqÿqÿqÿqÿqÿqÿqÿqqqqqqÿqÿq ÿq!q"q"q"q#q#q#q$q%q%q%ÿq&q'q'q'q(q(ÿq)q*q*q*q+q+ÿq,ÿq-ÿq.ÿq/ÿq0q1q1q1q2q2q2ÿq3ÿq4ÿq5ÿq6ÿq7ÿq8
+ÿqÿqÿqÿqÿqÿqÿqÿq	q
+q
+q
+qqqqqqqqqqqqÿqqqqqqqqqqqqqqqqqqÿqÿqÿqÿqÿqÿqÿqqqqqqÿqÿq ÿq!q"q"q"q#q#q#q$q%q%q%ÿq&q'q'q'q(q(ÿq)q*q*q*q+q+ÿq,ÿq-ÿq.ÿq/ÿq0q1q1q1q2q2q2ÿq3ÿq4ÿq5ÿq6ÿq7ÿq8
+ÿqÿqÿqÿqÿqÿqÿqÿq	q
+q
+q
+qqqqqqqqqqqqÿqqqqqqqqqqqqqqqqqqÿqÿqÿqÿqÿqÿqÿqqqqqqÿqÿq ÿq!q"q"q"q#q#q#q$q%q%q%ÿq&q'q'q'q(q(ÿq)q*q*q*q+q+ÿq,ÿq-ÿq.ÿq/ÿq0q1q1q1q2q2q2ÿq3ÿq4ÿq5ÿq6ÿq7ÿq8
+ÿqÿqÿqÿqÿqÿqÿqÿq	q
+q
+q
+qqqqqqqqqqqqÿqqqqqqqqqqqqqqqqqqÿqÿqÿqÿqÿqÿqÿqqqqqqÿqÿq ÿq!q"q"q"q#q#q#q$q%q%q%ÿq&q'q'q'q(q(ÿq)q*q*q*q+q+ÿq,ÿq-ÿq.ÿq/ÿq0q1q1q1q2q2q2ÿq3ÿq4ÿq5ÿq6ÿq7ÿq8
+ÿqÿqÿqÿqÿqÿqÿqÿq	q
+q
+q
+qqqqqqqqqqqqÿqqqqqqqqqqqqqqqqqqÿqÿqÿqÿqÿqÿqÿqqqqqqÿqÿq ÿq!q"q"q"q#q#q#q$q%q%q%ÿq&q'q'q'q(q(ÿq)q*q*q*q+q+ÿq,ÿq-ÿq.ÿq/ÿq0q1q1q1q2q2q2ÿq3ÿq4ÿq5ÿq6ÿq7ÿq8
+ÿqÿqÿqÿqÿqÿqÿqÿq	q
+q
+q
+qqqqqqqqqqqqÿqqqqqqqqqqqqqqqqqqÿqÿqÿqÿqÿqÿqÿqqqqqqÿqÿq ÿq!q"q"q"q#q#q#q$q%q%q%ÿq&q'q'q'q(q(ÿq)q*q*q*q+q+ÿq,ÿq-ÿq.ÿq/ÿq0q1q1q1q2q2q2ÿq3ÿq4ÿq5ÿq6ÿq7ÿq8
+ÿqÿqÿqÿqÿqÿqÿqÿq	q
+q
+q
+qqqqqqqqqqqqÿqqqqqqqqqqqqqqqqqqÿqÿqÿqÿqÿqÿqÿqqqqqqÿqÿq ÿq!q"q"q"q#q#q#q$q%q%q%ÿq&q'q'q'q(q(ÿq)q*q*q*q+q+ÿq,ÿq-ÿq.ÿq/ÿq0q1q1q1q2q2q2ÿq3ÿq4ÿq5ÿq6ÿq7ÿq8
+ÿqÿqÿqÿqÿqÿqÿqÿq	q
+q
+q
+qqqqqqqqqqqqÿqqqqqqqqqqqqqqqqqqÿqÿqÿqÿqÿqÿqÿqqqqqqÿqÿq ÿq!q"q"q"q#q#q#q$q%q%q%ÿq&q'q'q'q(q(ÿq)q*q*q*q+q+ÿq,ÿq-ÿq.ÿq/ÿq0q1q1q1q2q2q2ÿq3ÿq4ÿq5ÿq6ÿq7ÿq8
+ÿqÿq"ÿqÿq	ÿq
+ÿqÿqÿqÿqÿqÿqqqqqqÿqÿqÿqÿqÿqÿqqqqqqqqqqqqqÿqÿqÿq q!q"q"q"q#ÿq$q%q&q&q&q'ÿq(q)q)q)q*q+q+q+q,q,q,q-q-q-ÿq.ÿq/q0q0q0q1q1q1q2ÿq3q4q4q5q5q5ÿq6ÿq7ÿq8	ÿq9q:q:q:ÿqÿq"ÿqÿq	ÿq
+ÿqÿqÿqÿqÿqÿqqqqqqÿqÿqÿqÿqÿqÿqqqqqqqqqqqqqÿqÿqÿq q!q"q"q"q#ÿq$q%q&q&q&q'ÿq(q)q)q)q*q+q+q+q,q,q,q-q-q-ÿq.ÿq/q0q0q0q1q1q1q2ÿq3q4q4q5q5q5ÿq6ÿq7ÿq8	ÿq9q:q:q:ÿqÿq"ÿqÿq	ÿq
+ÿqÿqÿqÿqÿqÿqqqqqqÿqÿqÿqÿqÿqÿqqqqqqqqqqqqqÿqÿqÿq q!q"q"q"q#ÿq$q%q&q&q&q'ÿq(q)q)q)q*q+q+q+q,q,q,q-q-q-ÿq.ÿq/q0q0q0q1q1q1q2ÿq3q4q4q5q5q5ÿq6ÿq7ÿq8	ÿq9q:q:q:ÿqÿq"ÿqÿq	ÿq
+ÿqÿqÿqÿqÿqÿqqqqqqÿqÿqÿqÿqÿqÿqqqqqqqqqqqqqÿqÿqÿq q!q"q"q"q#ÿq$q%q&q&q&q'ÿq(q)q)q)q*q+q+q+q,q,q,q-q-q-ÿq.ÿq/q0q0q0q1q1q1q2ÿq3q4q4q5q5q5ÿq6ÿq7ÿq8	ÿq9q:q:q:ÿqÿq"ÿqÿq	ÿq
+ÿqÿqÿqÿqÿqÿqqqqqqÿqÿqÿqÿqÿqÿqqqqqqqqqqqqqÿqÿqÿq q!q"q"q"q#ÿq$q%q&q&q&q'ÿq(q)q)q)q*q+q+q+q,q,q,q-q-q-ÿq.ÿq/q0q0q0q1q1q1q2ÿq3q4q4q5q5q5ÿq6ÿq7ÿq8	ÿq9q:q:q:ÿqÿq"ÿqÿq	ÿq
+ÿqÿqÿqÿqÿqÿqqqqqqÿqÿqÿqÿqÿqÿqqqqqqqqqqqqqÿqÿqÿq q!q"q"q"q#ÿq$q%q&q&q&q'ÿq(q)q)q)q*q+q+q+q,q,q,q-q-q-ÿq.ÿq/q0q0q0q1q1q1q2ÿq3q4q4q5q5q5ÿq6ÿq7ÿq8	ÿq9q:q:q:ÿqÿq"ÿqÿq	ÿq
+ÿqÿqÿqÿqÿqÿqqqqqqÿqÿqÿqÿqÿqÿqqqqqqqqqqqqqÿqÿqÿq q!q"q"q"q#ÿq$q%q&q&q&q'ÿq(q)q)q)q*q+q+q+q,q,q,q-q-q-ÿq.ÿq/q0q0q0q1q1q1q2ÿq3q4q4q5q5q5ÿq6ÿq7ÿq8	ÿq9q:q:q:ÿqÿq"ÿqÿq	ÿq
+ÿqÿqÿqÿqÿqÿqqqqqqÿqÿqÿqÿqÿqÿqqqqqqqqqqqqqÿqÿqÿq q!q"q"q"q#ÿq$q%q&q&q&q'ÿq(q)q)q)q*q+q+q+q,q,q,q-q-q-ÿq.ÿq/q0q0q0q1q1q1q2ÿq3q4q4q5q5q5ÿq6ÿq7ÿq8	ÿq9q:q:q:ÿqÿq"ÿqÿq	ÿq
+ÿqÿqÿqÿqÿqÿqqqqqqÿqÿqÿqÿqÿqÿqqqqqqqqqqqqqÿqÿqÿq q!q"q"q"q#ÿq$q%q&q&q&q'ÿq(q)q)q)q*q+q+q+q,q,q,q-q-q-ÿq.ÿq/q0q0q0q1q1q1q2ÿq3q4q4q5q5q5ÿq6ÿq7ÿq8	ÿq9q:q:q:ÿqÿq"ÿqÿq	ÿq
+ÿqÿqÿqÿqÿqÿqqqqqqÿqÿqÿqÿqÿqÿqqqqqqqqqqqqqÿqÿqÿq q!q"q"q"q#ÿq$q%q&q&q&q'ÿq(q)q)q)q*q+q+q+q,q,q,q-q-q-ÿq.ÿq/q0q0q0q1q1q1q2ÿq3q4q4q5q5q5ÿq6ÿq7ÿq8	ÿq9q:q:q:ÿqÿq"ÿqÿq	ÿq
+ÿqÿqÿqÿqÿqÿqqqqqqÿqÿqÿqÿqÿqÿqqqqqqqqqqqqqÿqÿqÿq q!q"q"q"q#ÿq$q%q&q&q&q'ÿq(q)q)q)q*q+q+q+q,q,q,q-q-q-ÿq.ÿq/q0q0q0q1q1q1q2ÿq3q4q4q5q5q5ÿq6ÿq7ÿq8	ÿq9q:q:q:ÿqÿq"ÿqÿq	ÿq
+ÿqÿqÿqÿqÿqÿqqqqqqÿqÿqÿqÿqÿqÿqqqqqqqqqqqqqÿqÿqÿq q!q"q"q"q#ÿq$q%q&q&q&q'ÿq(q)q)q)q*q+q+q+q,q,q,q-q-q-ÿq.ÿq/q0q0q0q1q1q1q2ÿq3q4q4q5q5q5ÿq6ÿq7ÿq8	ÿq9q:q:q:ÿqÿq"ÿqÿq	ÿq
+ÿqÿqÿqÿqÿqÿqqqqqqÿqÿqÿqÿqÿqÿqqqqqqqqqqqqqÿqÿqÿq q!q"q"q"q#ÿq$q%q&q&q&q'ÿq(q)q)q)q*q+q+q+q,q,q,q-q-q-ÿq.ÿq/q0q0q0q1q1q1q2ÿq3q4q4q5q5q5ÿq6ÿq7ÿq8	ÿq9q:q:q:ÿqÿqÿq	
+ÿq
+ÿqÿqÿqÿqÿqÿqÿqÿq	ÿqÿqÿqqqqqqÿqqqqqqqqqqqqqqqqqq q q ÿq!q"q#q#q$q%q%q%q&q&q'q(q(q(q)ÿq*q+q+q+q,q-q-q-q.q.ÿq/ÿq0q1q2q2q2q3q4q4q5q5q5q6q7q7q7ÿq8ÿq9ÿq:ÿq;ÿqÿqÿq	
+ÿq
+ÿqÿqÿqÿqÿqÿqÿqÿq	ÿqÿqÿqqqqqqÿqqqqqqqqqqqqqqqqqq q q ÿq!q"q#q#q$q%q%q%q&q&q'q(q(q(q)ÿq*q+q+q+q,q-q-q-q.q.ÿq/ÿq0q1q2q2q2q3q4q4q5q5q5q6q7q7q7ÿq8ÿq9ÿq:ÿq;ÿqÿqÿq	
+ÿq
+ÿqÿqÿqÿqÿqÿqÿqÿq	ÿqÿqÿqqqqqqÿqqqqqqqqqqqqqqqqqq q q ÿq!q"q#q#q$q%q%q%q&q&q'q(q(q(q)ÿq*q+q+q+q,q-q-q-q.q.ÿq/ÿq0q1q2q2q2q3q4q4q5q5q5q6q7q7q7ÿq8ÿq9ÿq:ÿq;ÿqÿqÿq	
+ÿq
+ÿqÿqÿqÿqÿqÿqÿqÿq	ÿqÿqÿqqqqqqÿqqqqqqqqqqqqqqqqqq q q ÿq!q"q#q#q$q%q%q%q&q&q'q(q(q(q)ÿq*q+q+q+q,q-q-q-q.q.ÿq/ÿq0q1q2q2q2q3q4q4q5q5q5q6q7q7q7ÿq8ÿq9ÿq:ÿq;ÿqÿqÿq	
+ÿq
+ÿqÿqÿqÿqÿqÿqÿqÿq	ÿqÿqÿqqqqqqÿqqqqqqqqqqqqqqqqqq q q ÿq!q"q#q#q$q%q%q%q&q&q'q(q(q(q)ÿq*q+q+q+q,q-q-q-q.q.ÿq/ÿq0q1q2q2q2q3q4q4q5q5q5q6q7q7q7ÿq8ÿq9ÿq:ÿq;ÿqÿqÿq	
+ÿq
+ÿqÿqÿqÿqÿqÿqÿqÿq	ÿqÿqÿqqqqqqÿqqqqqqqqqqqqqqqqqq q q ÿq!q"q#q#q$q%q%q%q&q&q'q(q(q(q)ÿq*q+q+q+q,q-q-q-q.q.ÿq/ÿq0q1q2q2q2q3q4q4q5q5q5q6q7q7q7ÿq8ÿq9ÿq:ÿq;ÿqÿqÿq	
+ÿq
+ÿqÿqÿqÿqÿqÿqÿqÿq	ÿqÿqÿqqqqqqÿqqqqqqqqqqqqqqqqqq q q ÿq!q"q#q#q$q%q%q%q&q&q'q(q(q(q)ÿq*q+q+q+q,q-q-q-q.q.ÿq/ÿq0q1q2q2q2q3q4q4q5q5q5q6q7q7q7ÿq8ÿq9ÿq:ÿq;ÿqÿqÿq	
+ÿq
+ÿqÿqÿqÿqÿqÿqÿqÿq	ÿqÿqÿqqqqqqÿqqqqqqqqqqqqqqqqqq q q ÿq!q"q#q#q$q%q%q%q&q&q'q(q(q(q)ÿq*q+q+q+q,q-q-q-q.q.ÿq/ÿq0q1q2q2q2q3q4q4q5q5q5q6q7q7q7ÿq8ÿq9ÿq:ÿq;ÿqÿqÿq	
+ÿq
+ÿqÿqÿqÿqÿqÿqÿqÿq	ÿqÿqÿqqqqqqÿqqqqqqqqqqqqqqqqqq q q ÿq!q"q#q#q$q%q%q%q&q&q'q(q(q(q)ÿq*q+q+q+q,q-q-q-q.q.ÿq/ÿq0q1q2q2q2q3q4q4q5q5q5q6q7q7q7ÿq8ÿq9ÿq:ÿq;ÿqÿqÿq	
+ÿq
+ÿqÿqÿqÿqÿqÿqÿqÿq	ÿqÿqÿqqqqqqÿqqqqqqqqqqqqqqqqqq q q ÿq!q"q#q#q$q%q%q%q&q&q'q(q(q(q)ÿq*q+q+q+q,q-q-q-q.q.ÿq/ÿq0q1q2q2q2q3q4q4q5q5q5q6q7q7q7ÿq8ÿq9ÿq:ÿq;ÿqÿqÿq	
+ÿq
+ÿqÿqÿqÿqÿqÿqÿqÿq	ÿqÿqÿqqqqqqÿqqqqqqqqqqqqqqqqqq q q ÿq!q"q#q#q$q%q%q%q&q&q'q(q(q(q)ÿq*q+q+q+q,q-q-q-q.q.ÿq/ÿq0q1q2q2q2q3q4q4q5q5q5q6q7q7q7ÿq8ÿq9ÿq:ÿq;ÿqÿqÿq	
+ÿq
+ÿqÿqÿqÿqÿqÿqÿqÿq	ÿqÿqÿqqqqqqÿqqqqqqqqqqqqqqqqqq q q ÿq!q"q#q#q$q%q%q%q&q&q'q(q(q(q)ÿq*q+q+q+q,q-q-q-q.q.ÿq/ÿq0q1q2q2q2q3q4q4q5q5q5q6q7q7q7ÿq8ÿq9ÿq:ÿq;ÿqÿqÿq	
+ÿq
+ÿqÿqÿqÿqÿqÿqÿqÿq	ÿqÿqÿqqqqqqÿqqqqqqqqqqqqqqqqqq q q ÿq!q"q#q#q$q%q%q%q&q&q'q(q(q(q)ÿq*q+q+q+q,q-q-q-q.q.ÿq/ÿq0q1q2q2q2q3q4q4q5q5q5q6q7q7q7ÿq8ÿq9ÿq:ÿq;ÿqÿqÿq	
+ÿq
+ÿqÿqÿqÿqÿqÿqÿqÿq	ÿqÿqÿqqqqqqÿqqqqqqqqqqqqqqqqqq q q ÿq!q"q#q#q$q%q%q%q&q&q'q(q(q(q)ÿq*q+q+q+q,q-q-q-q.q.ÿq/ÿq0q1q2q2q2q3q4q4q5q5q5q6q7q7q7ÿq8ÿq9ÿq:ÿq;ÿqÿq	ÿq
+	ÿqÿqÿqÿqÿqÿqÿq
+qqqqqqqqqqqqqqqqqqqqqÿqqqqqqqqqqqq q q q!q!q!q"q"q#q$q$q$q%q&q&q'q'q'q(q(q)q*q*q+q+q+q,q-q-q.ÿq/q0q1q1q2q2q2q3q3q4q5q5q5q6ÿq7q8q8q8q9q:q:q:ÿq;ÿq<ÿq=ÿqÿq	ÿq
+	ÿqÿqÿqÿqÿqÿqÿq
+qqqqqqqqqqqqqqqqqqqqqÿqqqqqqqqqqqq q q q!q!q!q"q"q#q$q$q$q%q&q&q'q'q'q(q(q)q*q*q+q+q+q,q-q-q.ÿq/q0q1q1q2q2q2q3q3q4q5q5q5q6ÿq7q8q8q8q9q:q:q:ÿq;ÿq<ÿq=ÿqÿq	ÿq
+	ÿqÿqÿqÿqÿqÿqÿq
+qqqqqqqqqqqqqqqqqqqqqÿqqqqqqqqqqqq q q q!q!q!q"q"q#q$q$q$q%q&q&q'q'q'q(q(q)q*q*q+q+q+q,q-q-q.ÿq/q0q1q1q2q2q2q3q3q4q5q5q5q6ÿq7q8q8q8q9q:q:q:ÿq;ÿq<ÿq=ÿqÿq	ÿq
+	ÿqÿqÿqÿqÿqÿqÿq
+qqqqqqqqqqqqqqqqqqqqqÿqqqqqqqqqqqq q q q!q!q!q"q"q#q$q$q$q%q&q&q'q'q'q(q(q)q*q*q+q+q+q,q-q-q.ÿq/q0q1q1q2q2q2q3q3q4q5q5q5q6ÿq7q8q8q8q9q:q:q:ÿq;ÿq<ÿq=ÿqÿq	ÿq
+	ÿqÿqÿqÿqÿqÿqÿq
+qqqqqqqqqqqqqqqqqqqqqÿqqqqqqqqqqqq q q q!q!q!q"q"q#q$q$q$q%q&q&q'q'q'q(q(q)q*q*q+q+q+q,q-q-q.ÿq/q0q1q1q2q2q2q3q3q4q5q5q5q6ÿq7q8q8q8q9q:q:q:ÿq;ÿq<ÿq=ÿqÿq	ÿq
+	ÿqÿqÿqÿqÿqÿqÿq
+qqqqqqqqqqqqqqqqqqqqqÿqqqqqqqqqqqq q q q!q!q!q"q"q#q$q$q$q%q&q&q'q'q'q(q(q)q*q*q+q+q+q,q-q-q.ÿq/q0q1q1q2q2q2q3q3q4q5q5q5q6ÿq7q8q8q8q9q:q:q:ÿq;ÿq<ÿq=ÿqÿq	ÿq
+	ÿqÿqÿqÿqÿqÿqÿq
+qqqqqqqqqqqqqqqqqqqqqÿqqqqqqqqqqqq q q q!q!q!q"q"q#q$q$q$q%q&q&q'q'q'q(q(q)q*q*q+q+q+q,q-q-q.ÿq/q0q1q1q2q2q2q3q3q4q5q5q5q6ÿq7q8q8q8q9q:q:q:ÿq;ÿq<ÿq=ÿqÿq	ÿq
+	ÿqÿqÿqÿqÿqÿqÿq
+qqqqqqqqqqqqqqqqqqqqqÿqqqqqqqqqqqq q q q!q!q!q"q"q#q$q$q$q%q&q&q'q'q'q(q(q)q*q*q+q+q+q,q-q-q.ÿq/q0q1q1q2q2q2q3q3q4q5q5q5q6ÿq7q8q8q8q9q:q:q:ÿq;ÿq<ÿq=ÿqÿq	ÿq
+	ÿqÿqÿqÿqÿqÿqÿq
+qqqqqqqqqqqqqqqqqqqqqÿqqqqqqqqqqqq q q q!q!q!q"q"q#q$q$q$q%q&q&q'q'q'q(q(q)q*q*q+q+q+q,q-q-q.ÿq/q0q1q1q2q2q2q3q3q4q5q5q5q6ÿq7q8q8q8q9q:q:q:ÿq;ÿq<ÿq=ÿqÿq	ÿq
+	ÿqÿqÿqÿqÿqÿqÿq
+qqqqqqqqqqqqqqqqqqqqqÿqqqqqqqqqqqq q q q!q!q!q"q"q#q$q$q$q%q&q&q'q'q'q(q(q)q*q*q+q+q+q,q-q-q.ÿq/q0q1q1q2q2q2q3q3q4q5q5q5q6ÿq7q8q8q8q9q:q:q:ÿq;ÿq<ÿq=ÿqÿq	ÿq
+	ÿqÿqÿqÿqÿqÿqÿq
+qqqqqqqqqqqqqqqqqqqqqÿqqqqqqqqqqqq q q q!q!q!q"q"q#q$q$q$q%q&q&q'q'q'q(q(q)q*q*q+q+q+q,q-q-q.ÿq/q0q1q1q2q2q2q3q3q4q5q5q5q6ÿq7q8q8q8q9q:q:q:ÿq;ÿq<ÿq=ÿqÿq	ÿq
+	ÿqÿqÿqÿqÿqÿqÿq
+qqqqqqqqqqqqqqqqqqqqqÿqqqqqqqqqqqq q q q!q!q!q"q"q#q$q$q$q%q&q&q'q'q'q(q(q)q*q*q+q+q+q,q-q-q.ÿq/q0q1q1q2q2q2q3q3q4q5q5q5q6ÿq7q8q8q8q9q:q:q:ÿq;ÿq<ÿq=ÿq
+	ÿqÿq
+ÿqÿq
+ÿqÿq
+ÿq>ÿqÿqÿqqqqqqÿqqqqqqqqqqqqqqqqqqqqqqqq q q q!q!q"q#q#q$q%q%q&q'q'q(q)q)q*q*q*q+q+q,q-q.q.q.ÿq/q0q1q2q2q3q3q3q4q4q5q6q6q7q7q8q8q9q9q9ÿq:ÿq;ÿq<ÿq=ÿq
+	ÿqÿq
+ÿqÿq
+ÿqÿq
+ÿq>ÿqÿqÿqqqqqqÿqqqqqqqqqqqqqqqqqqqqqqqq q q q!q!q"q#q#q$q%q%q&q'q'q(q)q)q*q*q*q+q+q,q-q.q.q.ÿq/q0q1q2q2q3q3q3q4q4q5q6q6q7q7q8q8q9q9q9ÿq:ÿq;ÿq<ÿq=ÿq
+	ÿqÿq
+ÿqÿq
+ÿqÿq
+ÿq>ÿqÿqÿqqqqqqÿqqqqqqqqqqqqqqqqqqqqqqqq q q q!q!q"q#q#q$q%q%q&q'q'q(q)q)q*q*q*q+q+q,q-q.q.q.ÿq/q0q1q2q2q3q3q3q4q4q5q6q6q7q7q8q8q9q9q9ÿq:ÿq;ÿq<ÿq=ÿq
+	ÿqÿq
+ÿqÿq
+ÿqÿq
+ÿq>ÿqÿqÿqqqqqqÿqqqqqqqqqqqqqqqqqqqqqqqq q q q!q!q"q#q#q$q%q%q&q'q'q(q)q)q*q*q*q+q+q,q-q.q.q.ÿq/q0q1q2q2q3q3q3q4q4q5q6q6q7q7q8q8q9q9q9ÿq:ÿq;ÿq<ÿq=ÿq
+	ÿqÿq
+ÿqÿq
+ÿqÿq
+ÿq>ÿqÿqÿqqqqqqÿqqqqqqqqqqqqqqqqqqqqqqqq q q q!q!q"q#q#q$q%q%q&q'q'q(q)q)q*q*q*q+q+q,q-q.q.q.ÿq/q0q1q2q2q3q3q3q4q4q5q6q6q7q7q8q8q9q9q9ÿq:ÿq;ÿq<ÿq=ÿq
+	ÿqÿq
+ÿqÿq
+ÿqÿq
+ÿq>ÿqÿqÿqqqqqqÿqqqqqqqqqqqqqqqqqqqqqqqq q q q!q!q"q#q#q$q%q%q&q'q'q(q)q)q*q*q*q+q+q,q-q.q.q.ÿq/q0q1q2q2q3q3q3q4q4q5q6q6q7q7q8q8q9q9q9ÿq:ÿq;ÿq<ÿq=ÿq
+	ÿqÿq
+ÿqÿq
+ÿqÿq
+ÿq>ÿqÿqÿqqqqqqÿqqqqqqqqqqqqqqqqqqqqqqqq q q q!q!q"q#q#q$q%q%q&q'q'q(q)q)q*q*q*q+q+q,q-q.q.q.ÿq/q0q1q2q2q3q3q3q4q4q5q6q6q7q7q8q8q9q9q9ÿq:ÿq;ÿq<ÿq=ÿq
+	ÿqÿq
+ÿqÿq
+ÿqÿq
+ÿq>ÿqÿqÿqqqqqqÿqqqqqqqqqqqqqqqqqqqqqqqq q q q!q!q"q#q#q$q%q%q&q'q'q(q)q)q*q*q*q+q+q,q-q.q.q.ÿq/q0q1q2q2q3q3q3q4q4q5q6q6q7q7q8q8q9q9q9ÿq:ÿq;ÿq<ÿq=ÿq
+	ÿqÿq
+ÿqÿq
+ÿqÿq
+ÿq>ÿqÿqÿqqqqqqÿqqqqqqqqqqqqqqqqqqqqqqqq q q q!q!q"q#q#q$q%q%q&q'q'q(q)q)q*q*q*q+q+q,q-q.q.q.ÿq/q0q1q2q2q3q3q3q4q4q5q6q6q7q7q8q8q9q9q9ÿq:ÿq;ÿq<ÿq=ÿq
+	ÿqÿq
+ÿqÿq
+ÿqÿq
+ÿq>ÿqÿqÿqqqqqqÿqqqqqqqqqqqqqqqqqqqqqqqq q q q!q!q"q#q#q$q%q%q&q'q'q(q)q)q*q*q*q+q+q,q-q.q.q.ÿq/q0q1q2q2q3q3q3q4q4q5q6q6q7q7q8q8q9q9q9ÿq:ÿq;ÿq<ÿq=ÿq
+	ÿqÿq
+ÿqÿq
+ÿqÿq
+ÿq>ÿqÿqÿqqqqqqÿqqqqqqqqqqqqqqqqqqqqqqqq q q q!q!q"q#q#q$q%q%q&q'q'q(q)q)q*q*q*q+q+q,q-q.q.q.ÿq/q0q1q2q2q3q3q3q4q4q5q6q6q7q7q8q8q9q9q9ÿq:ÿq;ÿq<ÿq=ÿq
+	ÿqÿq
+ÿqÿq
+ÿqÿq
+ÿq>ÿqÿqÿqqqqqqÿqqqqqqqqqqqqqqqqqqqqqqqq q q q!q!q"q#q#q$q%q%q&q'q'q(q)q)q*q*q*q+q+q,q-q.q.q.ÿq/q0q1q2q2q3q3q3q4q4q5q6q6q7q7q8q8q9q9q9ÿq:ÿq;ÿq<ÿq=ÿq
+	ÿqÿq
+ÿqÿq
+ÿqÿq
+ÿq>ÿqÿqÿqqqqqqÿqqqqqqqqqqqqqqqqqqqqqqqq q q q!q!q"q#q#q$q%q%q&q'q'q(q)q)q*q*q*q+q+q,q-q.q.q.ÿq/q0q1q2q2q3q3q3q4q4q5q6q6q7q7q8q8q9q9q9ÿq:ÿq;ÿq<ÿq=q
+q
+q
+ÿqÿq
+ÿqÿqÿq4ÿqÿqÿqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq q q q!q!q"q#q#q$q$q%q&q'q'q(q)q)q*q*q+q,q-q-q.ÿq/q0q1q1q2q3ÿq4q5ÿq6ÿq8q9ÿq:q;q;q<q<ÿq=q>q>q>q
+q
+q
+ÿqÿq
+ÿqÿqÿq4ÿqÿqÿqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq q q q!q!q"q#q#q$q$q%q&q'q'q(q)q)q*q*q+q,q-q-q.ÿq/q0q1q1q2q3ÿq4q5ÿq6ÿq8q9ÿq:q;q;q<q<ÿq=q>q>q>q
+q
+q
+ÿqÿq
+ÿqÿqÿq4ÿqÿqÿqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq q q q!q!q"q#q#q$q$q%q&q'q'q(q)q)q*q*q+q,q-q-q.ÿq/q0q1q1q2q3ÿq4q5ÿq6ÿq8q9ÿq:q;q;q<q<ÿq=q>q>q>q
+q
+q
+ÿqÿq
+ÿqÿqÿq4ÿqÿqÿqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq q q q!q!q"q#q#q$q$q%q&q'q'q(q)q)q*q*q+q,q-q-q.ÿq/q0q1q1q2q3ÿq4q5ÿq6ÿq8q9ÿq:q;q;q<q<ÿq=q>q>q>q
+q
+q
+ÿqÿq
+ÿqÿqÿq4ÿqÿqÿqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq q q q!q!q"q#q#q$q$q%q&q'q'q(q)q)q*q*q+q,q-q-q.ÿq/q0q1q1q2q3ÿq4q5ÿq6ÿq8q9ÿq:q;q;q<q<ÿq=q>q>q>q
+q
+q
+ÿqÿq
+ÿqÿqÿq4ÿqÿqÿqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq q q q!q!q"q#q#q$q$q%q&q'q'q(q)q)q*q*q+q,q-q-q.ÿq/q0q1q1q2q3ÿq4q5ÿq6ÿq8q9ÿq:q;q;q<q<ÿq=q>q>q>q
+q
+q
+ÿqÿq
+ÿqÿqÿq4ÿqÿqÿqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq q q q!q!q"q#q#q$q$q%q&q'q'q(q)q)q*q*q+q,q-q-q.ÿq/q0q1q1q2q3ÿq4q5ÿq6ÿq8q9ÿq:q;q;q<q<ÿq=q>q>q>q
+q
+q
+ÿqÿq
+ÿqÿqÿq4ÿqÿqÿqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq q q q!q!q"q#q#q$q$q%q&q'q'q(q)q)q*q*q+q,q-q-q.ÿq/q0q1q1q2q3ÿq4q5ÿq6ÿq8q9ÿq:q;q;q<q<ÿq=q>q>q>q
+q
+q
+ÿqÿq
+ÿqÿqÿq4ÿqÿqÿqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq q q q!q!q"q#q#q$q$q%q&q'q'q(q)q)q*q*q+q,q-q-q.ÿq/q0q1q1q2q3ÿq4q5ÿq6ÿq8q9ÿq:q;q;q<q<ÿq=q>q>q>q
+q
+q
+ÿqÿq
+ÿqÿqÿq4ÿqÿqÿqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq q q q!q!q"q#q#q$q$q%q&q'q'q(q)q)q*q*q+q,q-q-q.ÿq/q0q1q1q2q3ÿq4q5ÿq6ÿq8q9ÿq:q;q;q<q<ÿq=q>q>q>q
+q
+q
+ÿqÿq
+ÿqÿqÿq4ÿqÿqÿqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq q q q!q!q"q#q#q$q$q%q&q'q'q(q)q)q*q*q+q,q-q-q.ÿq/q0q1q1q2q3ÿq4q5ÿq6ÿq8q9ÿq:q;q;q<q<ÿq=q>q>q>q
+q
+q
+ÿqÿq
+ÿqÿqÿq4ÿqÿqÿqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq q q q!q!q"q#q#q$q$q%q&q'q'q(q)q)q*q*q+q,q-q-q.ÿq/q0q1q1q2q3ÿq4q5ÿq6ÿq8q9ÿq:q;q;q<q<ÿq=q>q>q>q
+q
+q
+ÿqÿq
+ÿqÿqÿq4ÿqÿqÿqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq q q q!q!q"q#q#q$q$q%q&q'q'q(q)q)q*q*q+q,q-q-q.ÿq/q0q1q1q2q3ÿq4q5ÿq6ÿq8q9ÿq:q;q;q<q<ÿq=q>q>q>ÿq
+ÿq
+ÿqÿqÿqÿqKÿqÿqÿqÿqqqqÿqqqqqqqqqqqqqqqqqqqqqqqqqqqqq q q q!q"q"q#q#q$q%q&q&q'q(q(q)q)q*q+q+q,q-q.q.q/q/q/q0q0q1q1q3q3q4q4q4q5q5q6q6q7q8q8q8q9q9q9ÿq:ÿq
+ÿq
+ÿqÿqÿqÿqKÿqÿqÿqÿqqqqÿqqqqqqqqqqqqqqqqqqqqqqqqqqqqq q q q!q"q"q#q#q$q%q&q&q'q(q(q)q)q*q+q+q,q-q.q.q/q/q/q0q0q1q1q3q3q4q4q4q5q5q6q6q7q8q8q8q9q9q9ÿq:ÿq
+ÿq
+ÿqÿqÿqÿqKÿqÿqÿqÿqqqqÿqqqqqqqqqqqqqqqqqqqqqqqqqqqqq q q q!q"q"q#q#q$q%q&q&q'q(q(q)q)q*q+q+q,q-q.q.q/q/q/q0q0q1q1q3q3q4q4q4q5q5q6q6q7q8q8q8q9q9q9ÿq:ÿq
+ÿq
+ÿqÿqÿqÿqKÿqÿqÿqÿqqqqÿqqqqqqqqqqqqqqqqqqqqqqqqqqqqq q q q!q"q"q#q#q$q%q&q&q'q(q(q)q)q*q+q+q,q-q.q.q/q/q/q0q0q1q1q3q3q4q4q4q5q5q6q6q7q8q8q8q9q9q9ÿq:ÿq
+ÿq
+ÿqÿqÿqÿqKÿqÿqÿqÿqqqqÿqqqqqqqqqqqqqqqqqqqqqqqqqqqqq q q q!q"q"q#q#q$q%q&q&q'q(q(q)q)q*q+q+q,q-q.q.q/q/q/q0q0q1q1q3q3q4q4q4q5q5q6q6q7q8q8q8q9q9q9ÿq:ÿq
+ÿq
+ÿqÿqÿqÿqKÿqÿqÿqÿqqqqÿqqqqqqqqqqqqqqqqqqqqqqqqqqqqq q q q!q"q"q#q#q$q%q&q&q'q(q(q)q)q*q+q+q,q-q.q.q/q/q/q0q0q1q1q3q3q4q4q4q5q5q6q6q7q8q8q8q9q9q9ÿq:ÿq
+ÿq
+ÿqÿqÿqÿqKÿqÿqÿqÿqqqqÿqqqqqqqqqqqqqqqqqqqqqqqqqqqqq q q q!q"q"q#q#q$q%q&q&q'q(q(q)q)q*q+q+q,q-q.q.q/q/q/q0q0q1q1q3q3q4q4q4q5q5q6q6q7q8q8q8q9q9q9ÿq:ÿq
+ÿq
+ÿqÿqÿqÿqKÿqÿqÿqÿqqqqÿqqqqqqqqqqqqqqqqqqqqqqqqqqqqq q q q!q"q"q#q#q$q%q&q&q'q(q(q)q)q*q+q+q,q-q.q.q/q/q/q0q0q1q1q3q3q4q4q4q5q5q6q6q7q8q8q8q9q9q9ÿq:ÿq
+ÿq
+ÿqÿqÿqÿqKÿqÿqÿqÿqqqqÿqqqqqqqqqqqqqqqqqqqqqqqqqqqqq q q q!q"q"q#q#q$q%q&q&q'q(q(q)q)q*q+q+q,q-q.q.q/q/q/q0q0q1q1q3q3q4q4q4q5q5q6q6q7q8q8q8q9q9q9ÿq:ÿq
+ÿq
+ÿqÿqÿqÿqKÿqÿqÿqÿqqqqÿqqqqqqqqqqqqqqqqqqqqqqqqqqqqq q q q!q"q"q#q#q$q%q&q&q'q(q(q)q)q*q+q+q,q-q.q.q/q/q/q0q0q1q1q3q3q4q4q4q5q5q6q6q7q8q8q8q9q9q9ÿq:ÿq
+ÿq
+ÿqÿqÿqÿqKÿqÿqÿqÿqqqqÿqqqqqqqqqqqqqqqqqqqqqqqqqqqqq q q q!q"q"q#q#q$q%q&q&q'q(q(q)q)q*q+q+q,q-q.q.q/q/q/q0q0q1q1q3q3q4q4q4q5q5q6q6q7q8q8q8q9q9q9ÿq:ÿq
+ÿq
+ÿqÿqÿqÿqKÿqÿqÿqÿqqqqÿqqqqqqqqqqqqqqqqqqqqqqqqqqqqq q q q!q"q"q#q#q$q%q&q&q'q(q(q)q)q*q+q+q,q-q.q.q/q/q/q0q0q1q1q3q3q4q4q4q5q5q6q6q7q8q8q8q9q9q9ÿq:ÿq
+ÿq
+ÿqÿqÿqÿqKÿqÿqÿqÿqqqqÿqqqqqqqqqqqqqqqqqqqqqqqqqqqqq q q q!q"q"q#q#q$q%q&q&q'q(q(q)q)q*q+q+q,q-q.q.q/q/q/q0q0q1q1q3q3q4q4q4q5q5q6q6q7q8q8q8q9q9q9ÿq:qÿqÿqÿq	ÿq
+ÿqÿqÿqÿqÿqÿq-ÿq
+ÿqÿqÿqÿqÿq
+	ÿq
+ÿqÿqqqÿqqqqqqqqqqqqqqqqqqqqqqqqq q q q!q"q"q#q#q$q%q%q&q'q(q(q)q)q)q*q*q+q+q-q-q.q.q.ÿq/q0q0q1q1q2ÿq3ÿq4qÿqÿqÿq	ÿq
+ÿqÿqÿqÿqÿqÿq-ÿq
+ÿqÿqÿqÿqÿq
+	ÿq
+ÿqÿqqqÿqqqqqqqqqqqqqqqqqqqqqqqqq q q q!q"q"q#q#q$q%q%q&q'q(q(q)q)q)q*q*q+q+q-q-q.q.q.ÿq/q0q0q1q1q2ÿq3ÿq4qÿqÿqÿq	ÿq
+ÿqÿqÿqÿqÿqÿq-ÿq
+ÿqÿqÿqÿqÿq
+	ÿq
+ÿqÿqqqÿqqqqqqqqqqqqqqqqqqqqqqqqq q q q!q"q"q#q#q$q%q%q&q'q(q(q)q)q)q*q*q+q+q-q-q.q.q.ÿq/q0q0q1q1q2ÿq3ÿq4qÿqÿqÿq	ÿq
+ÿqÿqÿqÿqÿqÿq-ÿq
+ÿqÿqÿqÿqÿq
+	ÿq
+ÿqÿqqqÿqqqqqqqqqqqqqqqqqqqqqqqqq q q q!q"q"q#q#q$q%q%q&q'q(q(q)q)q)q*q*q+q+q-q-q.q.q.ÿq/q0q0q1q1q2ÿq3ÿq4qÿqÿqÿq	ÿq
+ÿqÿqÿqÿqÿqÿq-ÿq
+ÿqÿqÿqÿqÿq
+	ÿq
+ÿqÿqqqÿqqqqqqqqqqqqqqqqqqqqqqqqq q q q!q"q"q#q#q$q%q%q&q'q(q(q)q)q)q*q*q+q+q-q-q.q.q.ÿq/q0q0q1q1q2ÿq3ÿq4qÿqÿqÿq	ÿq
+ÿqÿqÿqÿqÿqÿq-ÿq
+ÿqÿqÿqÿqÿq
+	ÿq
+ÿqÿqqqÿqqqqqqqqqqqqqqqqqqqqqqqqq q q q!q"q"q#q#q$q%q%q&q'q(q(q)q)q)q*q*q+q+q-q-q.q.q.ÿq/q0q0q1q1q2ÿq3ÿq4qÿqÿqÿq	ÿq
+ÿqÿqÿqÿqÿqÿq-ÿq
+ÿqÿqÿqÿqÿq
+	ÿq
+ÿqÿqqqÿqqqqqqqqqqqqqqqqqqqqqqqqq q q q!q"q"q#q#q$q%q%q&q'q(q(q)q)q)q*q*q+q+q-q-q.q.q.ÿq/q0q0q1q1q2ÿq3ÿq4qÿqÿqÿq	ÿq
+ÿqÿqÿqÿqÿqÿq-ÿq
+ÿqÿqÿqÿqÿq
+	ÿq
+ÿqÿqqqÿqqqqqqqqqqqqqqqqqqqqqqqqq q q q!q"q"q#q#q$q%q%q&q'q(q(q)q)q)q*q*q+q+q-q-q.q.q.ÿq/q0q0q1q1q2ÿq3ÿq4qÿqÿqÿq	ÿq
+ÿqÿqÿqÿqÿqÿq-ÿq
+ÿqÿqÿqÿqÿq
+	ÿq
+ÿqÿqqqÿqqqqqqqqqqqqqqqqqqqqqqqqq q q q!q"q"q#q#q$q%q%q&q'q(q(q)q)q)q*q*q+q+q-q-q.q.q.ÿq/q0q0q1q1q2ÿq3ÿq4qÿqÿqÿq	ÿq
+ÿqÿqÿqÿqÿqÿq-ÿq
+ÿqÿqÿqÿqÿq
+	ÿq
+ÿqÿqqqÿqqqqqqqqqqqqqqqqqqqqqqqqq q q q!q"q"q#q#q$q%q%q&q'q(q(q)q)q)q*q*q+q+q-q-q.q.q.ÿq/q0q0q1q1q2ÿq3ÿq4qÿqÿqÿq	ÿq
+ÿqÿqÿqÿqÿqÿq-ÿq
+ÿqÿqÿqÿqÿq
+	ÿq
+ÿqÿqqqÿqqqqqqqqqqqqqqqqqqqqqqqqq q q q!q"q"q#q#q$q%q%q&q'q(q(q)q)q)q*q*q+q+q-q-q.q.q.ÿq/q0q0q1q1q2ÿq3ÿq4qÿqÿqÿq	ÿq
+ÿqÿqÿqÿqÿqÿq-ÿq
+ÿqÿqÿqÿqÿq
+	ÿq
+ÿqÿqqqÿqqqqqqqqqqqqqqqqqqqqqqqqq q q q!q"q"q#q#q$q%q%q&q'q(q(q)q)q)q*q*q+q+q-q-q.q.q.ÿq/q0q0q1q1q2ÿq3ÿq4qÿqÿqÿq	ÿq
+ÿqÿqÿqÿqÿqÿq-ÿq
+ÿqÿqÿqÿqÿq
+	ÿq
+ÿqÿqqqÿqqqqqqqqqqqqqqqqqqqqqqqqq q q q!q"q"q#q#q$q%q%q&q'q(q(q)q)q)q*q*q+q+q-q-q.q.q.ÿq/q0q0q1q1q2ÿq3ÿq4qÿqÿqÿq	ÿq
+ÿqÿqÿqÿqÿqÿq-ÿq
+ÿqÿqÿqÿqÿq
+	ÿq
+ÿqÿqqqÿqqqqqqqqqqqqqqqqqqqqqqqqq q q q!q"q"q#q#q$q%q%q&q'q(q(q)q)q)q*q*q+q+q-q-q.q.q.ÿq/q0q0q1q1q2ÿq3ÿq4ÿqÿqqqqÿqqqqÿqÿqÿq	ÿq
+ÿqÿqÿqÿqÿqÿqÿqÿqÿq	ÿqÿqÿqÿqÿq
+qqqqqqqqqqqqÿqqÿqqqqqqqqqqqqqqqqqqqqq q q q!q!q!q"q"q#q$q$q%q%ÿq'q(q)q)q*q*q+q+q,q,q,ÿq-q.q.q/q/ÿqÿqqqqÿqqqqÿqÿqÿq	ÿq
+ÿqÿqÿqÿqÿqÿqÿqÿqÿq	ÿqÿqÿqÿqÿq
+qqqqqqqqqqqqÿqqÿqqqqqqqqqqqqqqqqqqqqq q q q!q!q!q"q"q#q$q$q%q%ÿq'q(q)q)q*q*q+q+q,q,q,ÿq-q.q.q/q/ÿqÿqqqqÿqqqqÿqÿqÿq	ÿq
+ÿqÿqÿqÿqÿqÿqÿqÿqÿq	ÿqÿqÿqÿqÿq
+qqqqqqqqqqqqÿqqÿqqqqqqqqqqqqqqqqqqqqq q q q!q!q!q"q"q#q$q$q%q%ÿq'q(q)q)q*q*q+q+q,q,q,ÿq-q.q.q/q/ÿqÿqqqqÿqqqqÿqÿqÿq	ÿq
+ÿqÿqÿqÿqÿqÿqÿqÿqÿq	ÿqÿqÿqÿqÿq
+qqqqqqqqqqqqÿqqÿqqqqqqqqqqqqqqqqqqqqq q q q!q!q!q"q"q#q$q$q%q%ÿq'q(q)q)q*q*q+q+q,q,q,ÿq-q.q.q/q/ÿqÿqqqqÿqqqqÿqÿqÿq	ÿq
+ÿqÿqÿqÿqÿqÿqÿqÿqÿq	ÿqÿqÿqÿqÿq
+qqqqqqqqqqqqÿqqÿqqqqqqqqqqqqqqqqqqqqq q q q!q!q!q"q"q#q$q$q%q%ÿq'q(q)q)q*q*q+q+q,q,q,ÿq-q.q.q/q/ÿqÿqqqqÿqqqqÿqÿqÿq	ÿq
+ÿqÿqÿqÿqÿqÿqÿqÿqÿq	ÿqÿqÿqÿqÿq
+qqqqqqqqqqqqÿqqÿqqqqqqqqqqqqqqqqqqqqq q q q!q!q!q"q"q#q$q$q%q%ÿq'q(q)q)q*q*q+q+q,q,q,ÿq-q.q.q/q/ÿqÿqqqqÿqqqqÿqÿqÿq	ÿq
+ÿqÿqÿqÿqÿqÿqÿqÿqÿq	ÿqÿqÿqÿqÿq
+qqqqqqqqqqqqÿqqÿqqqqqqqqqqqqqqqqqqqqq q q q!q!q!q"q"q#q$q$q%q%ÿq'q(q)q)q*q*q+q+q,q,q,ÿq-q.q.q/q/ÿqÿqqqqÿqqqqÿqÿqÿq	ÿq
+ÿqÿqÿqÿqÿqÿqÿqÿqÿq	ÿqÿqÿqÿqÿq
+qqqqqqqqqqqqÿqqÿqqqqqqqqqqqqqqqqqqqqq q q q!q!q!q"q"q#q$q$q%q%ÿq'q(q)q)q*q*q+q+q,q,q,ÿq-q.q.q/q/ÿqÿqqqqÿqqqqÿqÿqÿq	ÿq
+ÿqÿqÿqÿqÿqÿqÿqÿqÿq	ÿqÿqÿqÿqÿq
+qqqqqqqqqqqqÿqqÿqqqqqqqqqqqqqqqqqqqqq q q q!q!q!q"q"q#q$q$q%q%ÿq'q(q)q)q*q*q+q+q,q,q,ÿq-q.q.q/q/ÿqÿqqqqÿqqqqÿqÿqÿq	ÿq
+ÿqÿqÿqÿqÿqÿqÿqÿqÿq	ÿqÿqÿqÿqÿq
+qqqqqqqqqqqqÿqqÿqqqqqqqqqqqqqqqqqqqqq q q q!q!q!q"q"q#q$q$q%q%ÿq'q(q)q)q*q*q+q+q,q,q,ÿq-q.q.q/q/ÿqÿqqqqÿqqqqÿqÿqÿq	ÿq
+ÿqÿqÿqÿqÿqÿqÿqÿqÿq	ÿqÿqÿqÿqÿq
+qqqqqqqqqqqqÿqqÿqqqqqqqqqqqqqqqqqqqqq q q q!q!q!q"q"q#q$q$q%q%ÿq'q(q)q)q*q*q+q+q,q,q,ÿq-q.q.q/q/ÿqÿqqqqÿqqqqÿqÿqÿq	ÿq
+ÿqÿqÿqÿqÿqÿqÿqÿqÿq	ÿqÿqÿqÿqÿq
+qqqqqqqqqqqqÿqqÿqqqqqqqqqqqqqqqqqqqqq q q q!q!q!q"q"q#q$q$q%q%ÿq'q(q)q)q*q*q+q+q,q,q,ÿq-q.q.q/q/ÿpýÿpþÿpÿÿq ÿqÿqÿqÿqÿqÿqÿqÿqÿq	q
+q
+q
+ÿqÿqÿqÿqÿqÿqÿqÿqÿqÿqÿqqqÿqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqÿq ÿq"q#q$q$q%q%q%q&q&q&q'q'q'q(q(q(q)q)q)ÿpýÿpþÿpÿÿq ÿqÿqÿqÿqÿqÿqÿqÿqÿq	q
+q
+q
+ÿqÿqÿqÿqÿqÿqÿqÿqÿqÿqÿqqqÿqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqÿq ÿq"q#q$q$q%q%q%q&q&q&q'q'q'q(q(q(q)q)q)ÿpýÿpþÿpÿÿq ÿqÿqÿqÿqÿqÿqÿqÿqÿq	q
+q
+q
+ÿqÿqÿqÿqÿqÿqÿqÿqÿqÿqÿqqqÿqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqÿq ÿq"q#q$q$q%q%q%q&q&q&q'q'q'q(q(q(q)q)q)ÿpýÿpþÿpÿÿq ÿqÿqÿqÿqÿqÿqÿqÿqÿq	q
+q
+q
+ÿqÿqÿqÿqÿqÿqÿqÿqÿqÿqÿqqqÿqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqÿq ÿq"q#q$q$q%q%q%q&q&q&q'q'q'q(q(q(q)q)q)ÿpýÿpþÿpÿÿq ÿqÿqÿqÿqÿqÿqÿqÿqÿq	q
+q
+q
+ÿqÿqÿqÿqÿqÿqÿqÿqÿqÿqÿqqqÿqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqÿq ÿq"q#q$q$q%q%q%q&q&q&q'q'q'q(q(q(q)q)q)ÿpýÿpþÿpÿÿq ÿqÿqÿqÿqÿqÿqÿqÿqÿq	q
+q
+q
+ÿqÿqÿqÿqÿqÿqÿqÿqÿqÿqÿqqqÿqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqÿq ÿq"q#q$q$q%q%q%q&q&q&q'q'q'q(q(q(q)q)q)ÿpýÿpþÿpÿÿq ÿqÿqÿqÿqÿqÿqÿqÿqÿq	q
+q
+q
+ÿqÿqÿqÿqÿqÿqÿqÿqÿqÿqÿqqqÿqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqÿq ÿq"q#q$q$q%q%q%q&q&q&q'q'q'q(q(q(q)q)q)ÿpýÿpþÿpÿÿq ÿqÿqÿqÿqÿqÿqÿqÿqÿq	q
+q
+q
+ÿqÿqÿqÿqÿqÿqÿqÿqÿqÿqÿqqqÿqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqÿq ÿq"q#q$q$q%q%q%q&q&q&q'q'q'q(q(q(q)q)q)ÿpýÿpþÿpÿÿq ÿqÿqÿqÿqÿqÿqÿqÿqÿq	q
+q
+q
+ÿqÿqÿqÿqÿqÿqÿqÿqÿqÿqÿqqqÿqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqÿq ÿq"q#q$q$q%q%q%q&q&q&q'q'q'q(q(q(q)q)q)ÿpýÿpþÿpÿÿq ÿqÿqÿqÿqÿqÿqÿqÿqÿq	q
+q
+q
+ÿqÿqÿqÿqÿqÿqÿqÿqÿqÿqÿqqqÿqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqÿq ÿq"q#q$q$q%q%q%q&q&q&q'q'q'q(q(q(q)q)q)ÿpýÿpþÿpÿÿq ÿqÿqÿqÿqÿqÿqÿqÿqÿq	q
+q
+q
+ÿqÿqÿqÿqÿqÿqÿqÿqÿqÿqÿqqqÿqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqÿq ÿq"q#q$q$q%q%q%q&q&q&q'q'q'q(q(q(q)q)q)ÿpýÿpþÿpÿÿq ÿqÿqÿqÿqÿqÿqÿqÿqÿq	q
+q
+q
+ÿqÿqÿqÿqÿqÿqÿqÿqÿqÿqÿqqqÿqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqÿq ÿq"q#q$q$q%q%q%q&q&q&q'q'q'q(q(q(q)q)q)ÿpýÿpþÿpÿÿq ÿqÿqÿqÿqÿqÿqÿqÿqÿq	q
+q
+q
+ÿqÿqÿqÿqÿqÿqÿqÿqÿqÿqÿqqqÿqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqÿq ÿq"q#q$q$q%q%q%q&q&q&q'q'q'q(q(q(q)q)q)ÿpùÿpúÿpûÿpüÿpýÿpþÿpÿÿq ÿqÿqÿqÿqqqqqqÿqqqqÿq	ÿq
+ÿqÿqÿqÿqÿq
+ÿq=ÿqqqqÿqqqqqqqqqqqqqqqÿqqqqqqqqqqqqqÿq q!q!q!q"q"q"ÿq#ÿq$q%q%ÿpùÿpúÿpûÿpüÿpýÿpþÿpÿÿq ÿqÿqÿqÿqqqqqqÿqqqqÿq	ÿq
+ÿqÿqÿqÿqÿq
+ÿq=ÿqqqqÿqqqqqqqqqqqqqqqÿqqqqqqqqqqqqqÿq q!q!q!q"q"q"ÿq#ÿq$q%q%ÿpùÿpúÿpûÿpüÿpýÿpþÿpÿÿq ÿqÿqÿqÿqqqqqqÿqqqqÿq	ÿq
+ÿqÿqÿqÿqÿq
+ÿq=ÿqqqqÿqqqqqqqqqqqqqqqÿqqqqqqqqqqqqqÿq q!q!q!q"q"q"ÿq#ÿq$q%q%ÿpùÿpúÿpûÿpüÿpýÿpþÿpÿÿq ÿqÿqÿqÿqqqqqqÿqqqqÿq	ÿq
+ÿqÿqÿqÿqÿq
+ÿq=ÿqqqqÿqqqqqqqqqqqqqqqÿqqqqqqqqqqqqqÿq q!q!q!q"q"q"ÿq#ÿq$q%q%ÿpùÿpúÿpûÿpüÿpýÿpþÿpÿÿq ÿqÿqÿqÿqqqqqqÿqqqqÿq	ÿq
+ÿqÿqÿqÿqÿq
+ÿq=ÿqqqqÿqqqqqqqqqqqqqqqÿqqqqqqqqqqqqqÿq q!q!q!q"q"q"ÿq#ÿq$q%q%ÿpùÿpúÿpûÿpüÿpýÿpþÿpÿÿq ÿqÿqÿqÿqqqqqqÿqqqqÿq	ÿq
+ÿqÿqÿqÿqÿq
+ÿq=ÿqqqqÿqqqqqqqqqqqqqqqÿqqqqqqqqqqqqqÿq q!q!q!q"q"q"ÿq#ÿq$q%q%ÿpùÿpúÿpûÿpüÿpýÿpþÿpÿÿq ÿqÿqÿqÿqqqqqqÿqqqqÿq	ÿq
+ÿqÿqÿqÿqÿq
+ÿq=ÿqqqqÿqqqqqqqqqqqqqqqÿqqqqqqqqqqqqqÿq q!q!q!q"q"q"ÿq#ÿq$q%q%ÿpõÿpöÿp÷ÿpøpùpùÿpúpûpûpûÿpü
+ÿpýÿpþÿpÿq q q ÿqqqqqqqqqqqqqqÿqÿqÿq	ÿq
+ÿq$ÿqÿq
+ÿq
+ÿq	ÿqÿqqqqÿqqqqqqqqqqqqqqqÿqqqqqqÿqÿqÿq ÿq!ÿq"q#q#q#ÿpõÿpöÿp÷ÿpøpùpùÿpúpûpûpûÿpü
+ÿpýÿpþÿpÿq q q ÿqqqqqqqqqqqqqqÿqÿqÿq	ÿq
+ÿq$ÿqÿq
+ÿq
+ÿq	ÿqÿqqqqÿqqqqqqqqqqqqqqqÿqqqqqqÿqÿqÿq ÿq!ÿq"q#q#q#ÿpõÿpöÿp÷ÿpøpùpùÿpúpûpûpûÿpü
+ÿpýÿpþÿpÿq q q ÿqqqqqqqqqqqqqqÿqÿqÿq	ÿq
+ÿq$ÿqÿq
+ÿq
+ÿq	ÿqÿqqqqÿqqqqqqqqqqqqqqqÿqqqqqqÿqÿqÿq ÿq!ÿq"q#q#q#ÿpõÿpöÿp÷ÿpøpùpùÿpúpûpûpûÿpü
+ÿpýÿpþÿpÿq q q ÿqqqqqqqqqqqqqqÿqÿqÿq	ÿq
+ÿq$ÿqÿq
+ÿq
+ÿq	ÿqÿqqqqÿqqqqqqqqqqqqqqqÿqqqqqqÿqÿqÿq ÿq!ÿq"q#q#q#ÿpõÿpöÿp÷ÿpøpùpùÿpúpûpûpûÿpü
+ÿpýÿpþÿpÿq q q ÿqqqqqqqqqqqqqqÿqÿqÿq	ÿq
+ÿq$ÿqÿq
+ÿq
+ÿq	ÿqÿqqqqÿqqqqqqqqqqqqqqqÿqqqqqqÿqÿqÿq ÿq!ÿq"q#q#q#ÿpõÿpöÿp÷ÿpøpùpùÿpúpûpûpûÿpü
+ÿpýÿpþÿpÿq q q ÿqqqqqqqqqqqqqqÿqÿqÿq	ÿq
+ÿq$ÿqÿq
+ÿq
+ÿq	ÿqÿqqqqÿqqqqqqqqqqqqqqqÿqqqqqqÿqÿqÿq ÿq!ÿq"q#q#q#ÿpõÿpöÿp÷ÿpøpùpùÿpúpûpûpûÿpü
+ÿpýÿpþÿpÿq q q ÿqqqqqqqqqqqqqqÿqÿqÿq	ÿq
+ÿq$ÿqÿq
+ÿq
+ÿq	ÿqÿqqqqÿqqqqqqqqqqqqqqqÿqqqqqqÿqÿqÿq ÿq!ÿq"q#q#q#ÿpõÿpöÿp÷ÿpøpùpùÿpúpûpûpûÿpü
+ÿpýÿpþÿpÿq q q ÿqqqqqqqqqqqqqqÿqÿqÿq	ÿq
+ÿq$ÿqÿq
+ÿq
+ÿq	ÿqÿqqqqÿqqqqqqqqqqqqqqqÿqqqqqqÿqÿqÿq ÿq!ÿq"q#q#q#ÿpõÿpöÿp÷ÿpøpùpùÿpúpûpûpûÿpü
+ÿpýÿpþÿpÿq q q ÿqqqqqqqqqqqqqqÿqÿqÿq	ÿq
+ÿq$ÿqÿq
+ÿq
+ÿq	ÿqÿqqqqÿqqqqqqqqqqqqqqqÿqqqqqqÿqÿqÿq ÿq!ÿq"q#q#q#ÿpõÿpöÿp÷ÿpøpùpùÿpúpûpûpûÿpü
+ÿpýÿpþÿpÿq q q ÿqqqqqqqqqqqqqqÿqÿqÿq	ÿq
+ÿq$ÿqÿq
+ÿq
+ÿq	ÿqÿqqqqÿqqqqqqqqqqqqqqqÿqqqqqqÿqÿqÿq ÿq!ÿq"q#q#q#ÿpõÿpöÿp÷ÿpøpùpùÿpúpûpûpûÿpü
+ÿpýÿpþÿpÿq q q ÿqqqqqqqqqqqqqqÿqÿqÿq	ÿq
+ÿq$ÿqÿq
+ÿq
+ÿq	ÿqÿqqqqÿqqqqqqqqqqqqqqqÿqqqqqqÿqÿqÿq ÿq!ÿq"q#q#q#ÿpõÿpöÿp÷ÿpøpùpùÿpúpûpûpûÿpü
+ÿpýÿpþÿpÿq q q ÿqqqqqqqqqqqqqqÿqÿqÿq	ÿq
+ÿq$ÿqÿq
+ÿq
+ÿq	ÿqÿqqqqÿqqqqqqqqqqqqqqqÿqqqqqqÿqÿqÿq ÿq!ÿq"q#q#q#ÿpõÿpöÿp÷ÿpøpùpùÿpúpûpûpûÿpü
+ÿpýÿpþÿpÿq q q ÿqqqqqqqqqqqqqqÿqÿqÿq	ÿq
+ÿq$ÿqÿq
+ÿq
+ÿq	ÿqÿqqqqÿqqqqqqqqqqqqqqqÿqqqqqqÿqÿqÿq ÿq!ÿq"q#q#q#ÿpòÿpóÿpôÿpõÿpöÿp÷ÿpøÿpùÿpúÿpûÿpüpýpýpýÿpþpÿpÿpÿÿq ÿqqqqÿqÿqÿqÿqÿqÿqÿq	ÿq
+ÿqÿqÿqÿqÿqÿqqqqqqqqqqqqqqqqqqqqqqqqqÿqqqÿqqqqqqÿq	ÿqÿpòÿpóÿpôÿpõÿpöÿp÷ÿpøÿpùÿpúÿpûÿpüpýpýpýÿpþpÿpÿpÿÿq ÿqqqqÿqÿqÿqÿqÿqÿqÿq	ÿq
+ÿqÿqÿqÿqÿqÿqqqqqqqqqqqqqqqqqqqqqqqqqÿqqqÿqqqqqqÿq	ÿqÿpòÿpóÿpôÿpõÿpöÿp÷ÿpøÿpùÿpúÿpûÿpüpýpýpýÿpþpÿpÿpÿÿq ÿqqqqÿqÿqÿqÿqÿqÿqÿq	ÿq
+ÿqÿqÿqÿqÿqÿqqqqqqqqqqqqqqqqqqqqqqqqqÿqqqÿqqqqqqÿq	ÿqÿpòÿpóÿpôÿpõÿpöÿp÷ÿpøÿpùÿpúÿpûÿpüpýpýpýÿpþpÿpÿpÿÿq ÿqqqqÿqÿqÿqÿqÿqÿqÿq	ÿq
+ÿqÿqÿqÿqÿqÿqqqqqqqqqqqqqqqqqqqqqqqqqÿqqqÿqqqqqqÿq	ÿqÿpòÿpóÿpôÿpõÿpöÿp÷ÿpøÿpùÿpúÿpûÿpüpýpýpýÿpþpÿpÿpÿÿq ÿqqqqÿqÿqÿqÿqÿqÿqÿq	ÿq
+ÿqÿqÿqÿqÿqÿqqqqqqqqqqqqqqqqqqqqqqqqqÿqqqÿqqqqqqÿq	ÿqÿpòÿpóÿpôÿpõÿpöÿp÷ÿpøÿpùÿpúÿpûÿpüpýpýpýÿpþpÿpÿpÿÿq ÿqqqqÿqÿqÿqÿqÿqÿqÿq	ÿq
+ÿqÿqÿqÿqÿqÿqqqqqqqqqqqqqqqqqqqqqqqqqÿqqqÿqqqqqqÿq	ÿqÿpòÿpóÿpôÿpõÿpöÿp÷ÿpøÿpùÿpúÿpûÿpüpýpýpýÿpþpÿpÿpÿÿq ÿqqqqÿqÿqÿqÿqÿqÿqÿq	ÿq
+ÿqÿqÿqÿqÿqÿqqqqqqqqqqqqqqqqqqqqqqqqqÿqqqÿqqqqqqÿq	ÿqÿpòÿpóÿpôÿpõÿpöÿp÷ÿpøÿpùÿpúÿpûÿpüpýpýpýÿpþpÿpÿpÿÿq ÿqqqqÿqÿqÿqÿqÿqÿqÿq	ÿq
+ÿqÿqÿqÿqÿqÿqqqqqqqqqqqqqqqqqqqqqqqqqÿqqqÿqqqqqqÿq	ÿqÿpòÿpóÿpôÿpõÿpöÿp÷ÿpøÿpùÿpúÿpûÿpüpýpýpýÿpþpÿpÿpÿÿq ÿqqqqÿqÿqÿqÿqÿqÿqÿq	ÿq
+ÿqÿqÿqÿqÿqÿqqqqqqqqqqqqqqqqqqqqqqqqqÿqqqÿqqqqqqÿq	ÿqÿpòÿpóÿpôÿpõÿpöÿp÷ÿpøÿpùÿpúÿpûÿpüpýpýpýÿpþpÿpÿpÿÿq ÿqqqqÿqÿqÿqÿqÿqÿqÿq	ÿq
+ÿqÿqÿqÿqÿqÿqqqqqqqqqqqqqqqqqqqqqqqqqÿqqqÿqqqqqqÿq	ÿqÿpòÿpóÿpôÿpõÿpöÿp÷ÿpøÿpùÿpúÿpûÿpüpýpýpýÿpþpÿpÿpÿÿq ÿqqqqÿqÿqÿqÿqÿqÿqÿq	ÿq
+ÿqÿqÿqÿqÿqÿqqqqqqqqqqqqqqqqqqqqqqqqqÿqqqÿqqqqqqÿq	ÿqÿpòÿpóÿpôÿpõÿpöÿp÷ÿpøÿpùÿpúÿpûÿpüpýpýpýÿpþpÿpÿpÿÿq ÿqqqqÿqÿqÿqÿqÿqÿqÿq	ÿq
+ÿqÿqÿqÿqÿqÿqqqqqqqqqqqqqqqqqqqqqqqqqÿqqqÿqqqqqqÿq	ÿqÿpòÿpóÿpôÿpõÿpöÿp÷ÿpøÿpùÿpúÿpûÿpüpýpýpýÿpþpÿpÿpÿÿq ÿqqqqÿqÿqÿqÿqÿqÿqÿq	ÿq
+ÿqÿqÿqÿqÿqÿqqqqqqqqqqqqqqqqqqqqqqqqqÿqqqÿqqqqqqÿq	ÿqÿpðÿpñÿpòÿpóÿpôÿpõÿpöÿp÷ÿpøÿpùÿpúÿpûÿpü	ÿpýÿpþÿpÿ
+ÿq ÿqqqqqqÿqqqÿqqqqÿqÿq	ÿq
+ÿqÿqÿqÿqÿq
+ÿqqqqÿqqqÿqÿqÿqÿqÿqÿpðÿpñÿpòÿpóÿpôÿpõÿpöÿp÷ÿpøÿpùÿpúÿpûÿpü	ÿpýÿpþÿpÿ
+ÿq ÿqqqqqqÿqqqÿqqqqÿqÿq	ÿq
+ÿqÿqÿqÿqÿq
+ÿqqqqÿqqqÿqÿqÿqÿqÿqÿpðÿpñÿpòÿpóÿpôÿpõÿpöÿp÷ÿpøÿpùÿpúÿpûÿpü	ÿpýÿpþÿpÿ
+ÿq ÿqqqqqqÿqqqÿqqqqÿqÿq	ÿq
+ÿqÿqÿqÿqÿq
+ÿqqqqÿqqqÿqÿqÿqÿqÿqÿpðÿpñÿpòÿpóÿpôÿpõÿpöÿp÷ÿpøÿpùÿpúÿpûÿpü	ÿpýÿpþÿpÿ
+ÿq ÿqqqqqqÿqqqÿqqqqÿqÿq	ÿq
+ÿqÿqÿqÿqÿq
+ÿqqqqÿqqqÿqÿqÿqÿqÿqÿpðÿpñÿpòÿpóÿpôÿpõÿpöÿp÷ÿpøÿpùÿpúÿpûÿpü	ÿpýÿpþÿpÿ
+ÿq ÿqqqqqqÿqqqÿqqqqÿqÿq	ÿq
+ÿqÿqÿqÿqÿq
+ÿqqqqÿqqqÿqÿqÿqÿqÿqÿpðÿpñÿpòÿpóÿpôÿpõÿpöÿp÷ÿpøÿpùÿpúÿpûÿpü	ÿpýÿpþÿpÿ
+ÿq ÿqqqqqqÿqqqÿqqqqÿqÿq	ÿq
+ÿqÿqÿqÿqÿq
+ÿqqqqÿqqqÿqÿqÿqÿqÿqÿpðÿpñÿpòÿpóÿpôÿpõÿpöÿp÷ÿpøÿpùÿpúÿpûÿpü	ÿpýÿpþÿpÿ
+ÿq ÿqqqqqqÿqqqÿqqqqÿqÿq	ÿq
+ÿqÿqÿqÿqÿq
+ÿqqqqÿqqqÿqÿqÿqÿqÿqÿpðÿpñÿpòÿpóÿpôÿpõÿpöÿp÷ÿpøÿpùÿpúÿpûÿpü	ÿpýÿpþÿpÿ
+ÿq ÿqqqqqqÿqqqÿqqqqÿqÿq	ÿq
+ÿqÿqÿqÿqÿq
+ÿqqqqÿqqqÿqÿqÿqÿqÿqÿpðÿpñÿpòÿpóÿpôÿpõÿpöÿp÷ÿpøÿpùÿpúÿpûÿpü	ÿpýÿpþÿpÿ
+ÿq ÿqqqqqqÿqqqÿqqqqÿqÿq	ÿq
+ÿqÿqÿqÿqÿq
+ÿqqqqÿqqqÿqÿqÿqÿqÿqÿpðÿpñÿpòÿpóÿpôÿpõÿpöÿp÷ÿpøÿpùÿpúÿpûÿpü	ÿpýÿpþÿpÿ
+ÿq ÿqqqqqqÿqqqÿqqqqÿqÿq	ÿq
+ÿqÿqÿqÿqÿq
+ÿqqqqÿqqqÿqÿqÿqÿqÿqÿpðÿpñÿpòÿpóÿpôÿpõÿpöÿp÷ÿpøÿpùÿpúÿpûÿpü	ÿpýÿpþÿpÿ
+ÿq ÿqqqqqqÿqqqÿqqqqÿqÿq	ÿq
+ÿqÿqÿqÿqÿq
+ÿqqqqÿqqqÿqÿqÿqÿqÿqÿpðÿpñÿpòÿpóÿpôÿpõÿpöÿp÷ÿpøÿpùÿpúÿpûÿpü	ÿpýÿpþÿpÿ
+ÿq ÿqqqqqqÿqqqÿqqqqÿqÿq	ÿq
+ÿqÿqÿqÿqÿq
+ÿqqqqÿqqqÿqÿqÿqÿqÿqÿpðÿpñÿpòÿpóÿpôÿpõÿpöÿp÷ÿpøÿpùÿpúÿpûÿpü	ÿpýÿpþÿpÿ
+ÿq ÿqqqqqqÿqqqÿqqqqÿqÿq	ÿq
+ÿqÿqÿqÿqÿq
+ÿqqqqÿqqqÿqÿqÿqÿqÿqpñÿpðÿpñÿpòÿpóÿpôÿpõÿpöÿp÷ÿpøpùpùpùÿpúÿpûÿpü?ÿpýpþpþpþÿpÿÿq qqqÿqÿqÿqÿqÿqÿqÿqÿq	ÿq
+ÿqÿqÿqqqqÿqÿqqqqpñÿpðÿpñÿpòÿpóÿpôÿpõÿpöÿp÷ÿpøpùpùpùÿpúÿpûÿpü?ÿpýpþpþpþÿpÿÿq qqqÿqÿqÿqÿqÿqÿqÿqÿq	ÿq
+ÿqÿqÿqqqqÿqÿqqqqpñÿpðÿpñÿpòÿpóÿpôÿpõÿpöÿp÷ÿpøpùpùpùÿpúÿpûÿpü?ÿpýpþpþpþÿpÿÿq qqqÿqÿqÿqÿqÿqÿqÿqÿq	ÿq
+ÿqÿqÿqqqqÿqÿqqqqpñÿpðÿpñÿpòÿpóÿpôÿpõÿpöÿp÷ÿpøpùpùpùÿpúÿpûÿpü?ÿpýpþpþpþÿpÿÿq qqqÿqÿqÿqÿqÿqÿqÿqÿq	ÿq
+ÿqÿqÿqqqqÿqÿqqqqpñÿpðÿpñÿpòÿpóÿpôÿpõÿpöÿp÷ÿpøpùpùpùÿpúÿpûÿpü?ÿpýpþpþpþÿpÿÿq qqqÿqÿqÿqÿqÿqÿqÿqÿq	ÿq
+ÿqÿqÿqqqqÿqÿqqqqpñÿpðÿpñÿpòÿpóÿpôÿpõÿpöÿp÷ÿpøpùpùpùÿpúÿpûÿpü?ÿpýpþpþpþÿpÿÿq qqqÿqÿqÿqÿqÿqÿqÿqÿq	ÿq
+ÿqÿqÿqqqqÿqÿqqqqpñÿpðÿpñÿpòÿpóÿpôÿpõÿpöÿp÷ÿpøpùpùpùÿpúÿpûÿpü?ÿpýpþpþpþÿpÿÿq qqqÿqÿqÿqÿqÿqÿqÿqÿq	ÿq
+ÿqÿqÿqqqqÿqÿqqqqpñÿpðÿpñÿpòÿpóÿpôÿpõÿpöÿp÷ÿpøpùpùpùÿpúÿpûÿpü?ÿpýpþpþpþÿpÿÿq qqqÿqÿqÿqÿqÿqÿqÿqÿq	ÿq
+ÿqÿqÿqqqqÿqÿqqqqpñÿpðÿpñÿpòÿpóÿpôÿpõÿpöÿp÷ÿpøpùpùpùÿpúÿpûÿpü?ÿpýpþpþpþÿpÿÿq qqqÿqÿqÿqÿqÿqÿqÿqÿq	ÿq
+ÿqÿqÿqqqqÿqÿqqqqpñÿpðÿpñÿpòÿpóÿpôÿpõÿpöÿp÷ÿpøpùpùpùÿpúÿpûÿpü?ÿpýpþpþpþÿpÿÿq qqqÿqÿqÿqÿqÿqÿqÿqÿq	ÿq
+ÿqÿqÿqqqqÿqÿqqqqpñÿpðÿpñÿpòÿpóÿpôÿpõÿpöÿp÷ÿpøpùpùpùÿpúÿpûÿpü?ÿpýpþpþpþÿpÿÿq qqqÿqÿqÿqÿqÿqÿqÿqÿq	ÿq
+ÿqÿqÿqqqqÿqÿqqqqpñÿpðÿpñÿpòÿpóÿpôÿpõÿpöÿp÷ÿpøpùpùpùÿpúÿpûÿpü?ÿpýpþpþpþÿpÿÿq qqqÿqÿqÿqÿqÿqÿqÿqÿq	ÿq
+ÿqÿqÿqqqqÿqÿqqqqpñÿpðÿpñÿpòÿpóÿpôÿpõÿpöÿp÷ÿpøpùpùpùÿpúÿpûÿpü?ÿpýpþpþpþÿpÿÿq qqqÿqÿqÿqÿqÿqÿqÿqÿq	ÿq
+ÿqÿqÿqqqqÿqÿqqqqpòpòpòÿpñ
+ÿpòÿpóÿpôÿpõÿpöÿp÷ÿpøÿpùÿpúÿpùÿpøÿpùÿpúpûpûÿpüÿpýÿpþÿpÿÿq ÿqÿqÿqÿqÿqÿqÿqÿqÿq	ÿq
+qqqqqqpòpòpòÿpñ
+ÿpòÿpóÿpôÿpõÿpöÿp÷ÿpøÿpùÿpúÿpùÿpøÿpùÿpúpûpûÿpüÿpýÿpþÿpÿÿq ÿqÿqÿqÿqÿqÿqÿqÿqÿq	ÿq
+qqqqqqpòpòpòÿpñ
+ÿpòÿpóÿpôÿpõÿpöÿp÷ÿpøÿpùÿpúÿpùÿpøÿpùÿpúpûpûÿpüÿpýÿpþÿpÿÿq ÿqÿqÿqÿqÿqÿqÿqÿqÿq	ÿq
+qqqqqqpòpòpòÿpñ
+ÿpòÿpóÿpôÿpõÿpöÿp÷ÿpøÿpùÿpúÿpùÿpøÿpùÿpúpûpûÿpüÿpýÿpþÿpÿÿq ÿqÿqÿqÿqÿqÿqÿqÿqÿq	ÿq
+qqqqqqpòpòpòÿpñ
+ÿpòÿpóÿpôÿpõÿpöÿp÷ÿpøÿpùÿpúÿpùÿpøÿpùÿpúpûpûÿpüÿpýÿpþÿpÿÿq ÿqÿqÿqÿqÿqÿqÿqÿqÿq	ÿq
+qqqqqqpòpòpòÿpñ
+ÿpòÿpóÿpôÿpõÿpöÿp÷ÿpøÿpùÿpúÿpùÿpøÿpùÿpúpûpûÿpüÿpýÿpþÿpÿÿq ÿqÿqÿqÿqÿqÿqÿqÿqÿq	ÿq
+qqqqqqpòpòpòÿpñ
+ÿpòÿpóÿpôÿpõÿpöÿp÷ÿpøÿpùÿpúÿpùÿpøÿpùÿpúpûpûÿpüÿpýÿpþÿpÿÿq ÿqÿqÿqÿqÿqÿqÿqÿqÿq	ÿq
+qqqqqqpòpòpòÿpñ
+ÿpòÿpóÿpôÿpõÿpöÿp÷ÿpøÿpùÿpúÿpùÿpøÿpùÿpúpûpûÿpüÿpýÿpþÿpÿÿq ÿqÿqÿqÿqÿqÿqÿqÿqÿq	ÿq
+qqqqqqpòpòpòÿpñ
+ÿpòÿpóÿpôÿpõÿpöÿp÷ÿpøÿpùÿpúÿpùÿpøÿpùÿpúpûpûÿpüÿpýÿpþÿpÿÿq ÿqÿqÿqÿqÿqÿqÿqÿqÿq	ÿq
+qqqqqq
